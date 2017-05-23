@@ -1,7 +1,7 @@
 include::utils/translation.adoc[]
 
 = Kunnskapsgrunnlag - økt tilgjengeliggjøring av offentlige data
-Direktoratetet for forvaltning og IKT
+Direktoratet for forvaltning og IKT
 v0.1
 :description: Kunnskapsgrunnlag...
 :doctype: book
@@ -18,3 +18,4 @@ include::utils/download.adoc[]
 :leveloffset: +1
 
 // Innhold her.
+include::Del1.adoc[]
