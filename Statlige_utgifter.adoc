@@ -1,0 +1,61 @@
+== Statlige utgifter
+
+=== Status for tilgjengeliggjøring
+
+Statlige utgifter kan studeres ut fra budsjett- eller regnskapsperspektiv. https://www.regjeringen.no/no/tema/okonomi-og-budsjett/statsbudsjettet/id1437/[Statsbudsjettet] angir hvor mye utgifter og inntekter staten planlegger å bruke/motta i budsjettåret, fordelt på departement, programområder, kapitler og poster. Statsbudsjettet settes opp og behandles i samsvar med https://www.regjeringen.no/no/tema/okonomi-og-budsjett/statlig-okonomistyring/bevilgningsreglementet/id439274/[Stortingets bevilgningsreglement]. Kapitlene i statsbudsjettet kan omfatte en eller flere virksomheter. Det er det enkelte departements ansvar å stille budsjettet til disposisjon for virksomhetene, herunder fordele budsjettet på virksomheter når et kapittel omfatter flere virksomheter. Dette skjer i etatsstyringen, og fordelingen framgår ikke av statsbudsjettet.
+
+Statsbudsjettet publiseres når regjeringens forslag legges fram for Stortinget i begynnelsen av oktober hvert år før det aktuelle budsjettåret. Revidert statsbudsjett legges fram i mai og nysaldert budsjett i november i budsjettåret. De to revisjonsrundene viser endringstall i forhold til saldert budsjett (vedtatt budsjett i Stortinget desember før budsjettåret). Informasjon om datasettene og selve tallmaterialet er tilgjengelig i åpne data format (csv) på www.statsbudsjettet.no. Tallene bak figurene er tilgjengelig i både html og excel-format.
+
+Finansdepartementet har i en årrekke gjort alle tall som publiseres i budsjettdokumenter offentlig tilgjengelige i maskinlesbar form. Departementet publiserer nå flere tall enn før, bl.a. for strukturell balanse. Bakgrunnen for dette er etterspørsel etter tallene, bl.a. bruker mange budsjettfigurer i egne presentasjoner.  Med internett ble det lettere tilgang til disse dataene for brukerne, og mindre arbeid for departementet ved innsynsbegjæringer. Åpenheten har også en egenverdi ved at det styrker troverdighet og omdømme. Alle budsjettdokumentene publiseres også på nettet, som pdf, epub, rtf og som html.
+
+https://www.regjeringen.no/no/tema/okonomi-og-budsjett/statlig-okonomistyring/statsregnskapet/id438868/[Statsregnskapet] omfatter faktiske utgifter og inntekter på de samme kapitlene og postene som i statsbudsjettet, og viser i tillegg utgifter og inntekter på artskonti og virksomheter for de bruttobudsjetterte virksomhetene. Dette gjelder aggregerte tall, dvs. sum utgifter og inntekter per kapittel/post og per tresiffernivå på artskonto. Hver måned blir det publisert rapporter fra statens bevilgningsregnskap på https://dfo.no/fagomrader/statsregnskapet/manedlig-statsregnskap/[DFØs nettsider], der det også finnes informasjon om datasettene. Statens utgifter og inntekter presenteres i rapportene slik de stilles opp i den årlige meldingen om statsregnskapet (Meld. St. 3) til Stortinget. Et rådatauttrekk, som også inneholder regnskapsdata på artskonti etter standard kontoplan, er i tillegg lagt ut i excel-format under http://data.norge.no/nlod/no[Norsk lisens for offentlige data (NLOD)].
+
+DFØ publiserer hver måned oppdatert bevilgningsregnskap per kapittel og post med oversikt over samlet bevilgning (inkl. overføring fra i fjor og årsbudsjett), regnskap hittil i år og avvik for (1) statens utgifter, og (2) statens inntekter, samt oversikt over (3) bevilgningshistorikk som viser overført bevilgning fra i fjor, saldert budsjett og endringer med henvisning til proposisjon/innstilling. Det publiseres i tillegg et eget dokument (4) med lenker til alle proposisjoner/innstillinger med budsjettrelevans og som ligger til grunn for bevilgningsvedtakene på kapittel og post i statsbudsjettet.
+
+Statlige virksomheter publiserer hvert år innen 1. mai en årsrapport fra virksomheten, jf. Bestemmelser om økonomistyring i staten, kap. 1.5.1 og 2.3.3 Årsrapporten inkluderer årsregnskapet. Det er ikke krav om at årsrapporten og årsregnskapet skal publiseres i åpent data-format. Årsrapporten skal gi et dekkende bilde av virksomhetens resultater og gi departementet grunnlag for å vurdere måloppnåelse og ressursbruk. Hensikten er bedre kvalitet, mer åpenhet og mindre omfattende rapportering.
+
+Alle data som publiseres kan gjenbrukes uten gebyr.
+
+=== Status for bruk av data
+
+Fagdepartementene mottar hver måned faste rapporter med regnskapstall fra statsregnskapet som gir grunnlag for budsjettoppfølging og regnskapsanalyse, og rådatafiler i excel-format med informasjon om standard kontoplan per virksomhet.
+
+Departementene bruker data fra statsregnskapet til oppfølging, budsjettkontroll, regnskapsanalyse, sammenligning og prognosearbeid, og i mindre grad til budsjettering og styring. Informasjon om utgifts- og inntektsarter er også nyttig for departementene for å få bedre kjennskap til utgiftsstrukturen i virksomhetene og innenfor budsjettkapitler.
+
+Finansdepartementet får i tillegg noen spesialrapporter, blant annet «REGBASE»-uttrekk og returfil med regnskapstall til BUDSYS. Der det er aktuelt, er disse rapportene utvidet til også å vise artskonto.
+
+Riksrevisjonen får også hver måned tall fra statsregnskapet. Dette gjøres i et program utviklet av Riksrevisjonen selv. I årsoppgjøret utvides datainnholdet i rapportene.
+
+Statistisk sentralbyrå får også månedlige leveranser. På forespørsel leveres i tillegg spesialuttrekk av artskonto. SSB får også ekstrarapportering til årsoppgjøret hvor kapitalregnskapet er inkludert.
+
+DIFI har på konkrete henvendelser fått oppstillinger, gjerne gruppert etter standard kontoplan. For eksempel på utgiftsgrupper som IT, konsulentbruk osv. Difi har etablert en statistikkdatabase med publiseringsløsning for offentlige anskaffelser som blant annet er basert på data fra statsregnskapet.
+
+Representanter fra media har gitt klart uttrykk for at rådata (big data) bør være tilgjengelig for eksterne interessenter som media, forskere, osv. Rådata er viktig for gravende journalister, men det er ikke noen motsetning mellom publisering av rådata og enklere tilrettelegging av data til analyse og sammenligning f.eks. i enkle rapporter og presentasjoner.
+
+KD innhenter tallmateriale fra samtlige nettobudsjetterte virksomheter i sektoren og aggregerer og avstemmer dette internt. KD nytter http://dbh.nsd.uib.no/statistikk/kategori_okonomi.action;jsessionid=44600F25A5FCB2ED3873949CADB3AC64[DBH-databasen] som hjelpemiddel i forbindelse med aggregeringen.
+
+===  Utviklingstrekk med hensyn til tilgjengeliggjøring
+
+|===
+|_Tid_|_Tiltak_
+
+|2001|Nasjonalbudsjettet 2002 ble lagt frem med eget (digitalt) excel-vedlegg for tallene bak hvert diagram i dokumentet, slik at brukerne selv kunne laste ned tallsettene.
+|2010|Statsbudsjettet 2011 blir lagt frem på nettet med egen tabellgenerator som gjør uttrekk i excel og .csv for alle tabellene som er brukt. Senere blir dette omgjort til å være kun .csv-filer.
+|2010|DFØ publiserer hver måned (pdf) oppdatert bevilgningsregnskap per kapittel og post, bevilgningshistorikk og lenke til proposisjoner/innstillinger med budsjettrelevans. Finansdepartementet innhentet synspunkter fra alle departementene i forkant av innføring av denne ordningen.
+|2010|FIN innfører obligatorisk standard kontoplan, som legger til rette for standardisering av årsregnskap og rapportering av mer detaljerte regnskapsdata til statsregnskapet.
+|2013|Statsbudsjettet 2014 blir lagt frem med både .epub og rtf-format i tillegg til pdf og html av samtlige budsjettdokumenter.
+|2013|FIN endrer økonomiregelverket med nye krav til årsrapport og årsregnskap for statlige virksomheter med virkning fra og med rapporteringen for 2014. Årsrapporten skal settes opp etter en felles mal og gi et dekkende bilde av virksomhetens resultater. Årsrapporter skal publiseres på virksomhetens og departementets nettsider, første gang 2015. Departementene skal også publisere tildelingsbrevene på sine nettsider.
+|2014|Finansdepartementet uttrykte i Gul bok 2015, kap. 7.4:
+|2015|DFØs statsregnskapsrapporter (kapittel/post) publiseres i excel-format. I tillegg legges det ut rådatafiler i excel-format med data etter standard kontoplan per virksomhet. Finansdepartementet innhentet synspunkter fra alle departementene i forkant av denne utvidelsen av publiseringsomfanget.
+|2015|DFØ starter på oppdrag fra Finansdepartementet et publiseringsprosjekt for å forenkle og forbedre tilgangen til regnskapsinformasjon både internt i statsforvaltningen og for
+|2016|DFØ fremmer forslag på oppdrag fra FIN om en standardisert definisjon og offentlig oversikt over statlige virksomheter. Dette vil forenkle og legge bedre til rette for publisering av nøkkeldata og sammenligning på tvers i staten.
+|2016|DFØ fremmer forslag på oppdrag fra FIN om en løsning for innrapportering av regnskapsdata fra nettobudsjetterte virksomheter i staten. Dette vil komplettere rapporteringen av regnskapsdata for alle virksomhetene i staten.
+|2016|Finansdepartementet gjennomfører et forprosjekt for å tilrettelegge en database for benchmarking av administrasjonskostnader i statlige virksomheter, og publisere parametere og nøkkeltall om administrative kostnader.
+|2017|Løsningen for publisering av informasjon fra statsregnskapet på nett – som vil gjøre mer data bedre tilgjengelig for flere brukere - lanseres i løpet av 2017.
+|===
+
+SSB publiserte i noen år data om statlig ressursbruk og resultater (Statres) for en rekke statlige virksomheter (etater). Statres ble brukt i liten grad. De enkelte virksomhetene har allerede raskere tilgang på resultatinformasjonen, i og med at de i stor grad er kilde for denne informasjonen. Virksomhetene kjente seg ofte ikke igjen i ressursdata fordi SSB omregner regnskapsdata til nasjonalregnskapsdefinisjoner. Statres ble derfor lagt ned i 2015.
+
+Andre land som det er naturlig å sammenligne med, publiserer mer offentlig regnskapsinformasjon enn det vi gjør i Norge. I forarbeidene til publiseringsløsningen for statsregnskapet vurderte arbeidsgruppen særlig eksempler fra Storbritannia, Danmark og Sverige.
+
+Det har de seneste årene blitt betydelig økt internasjonal oppmerksomhet omkring tilgjengelige åpne offentlige data. http://www.opengovpartnership.org/[Open Government Partnership]-bevegelsen har bidratt til dette. Både OECD, IMF og International Budget Partnership (IBP) har utviklet indekser for å vurdere og rangere land mht. åpenhet knyttet til offentlige budsjetter og regnskapsdata http://survey.internationalbudget.org/[The Open Budget Index] 2015 (IBP) vurderer Norge på fjerdeplass. Andre internasjonale organisasjoner har videreutviklet indekser som vurderer om tilgjengelige offentlige data er på et åpent dataformat. Open Knowledges indeks http://global.census.okfn.org/[The Global Open Data Index] 2015 vurderer Norge foreløpig på åttendeplass, mens Worls Wide Web Foundations indeks http://www.opendataresearch.org/barometer[Open Data Barometer 2015] setter Norge på en syttendeplass. Den sistnevnte indeksen vurderer offentlige regnskapsdata om lag på samme måte som den første, men Open Data Barometer vurderer flere sektorer i samfunnet, både offentlig sektor, næringsliv og privat/sivilt samfunn, og har tre dimensjoner: tilgang, bruk og effekt. Det er et hovedinntrykk at de sistnevnte indeksene for åpne data inkluderer detaljerte transaksjonsbaserte data når det vurderes tilgjengelighet av regnskapsdata. Her skårer Norge svakt, sammen med de fleste andre land. En del land publiserer imidlertid offentlige innkjøp over en viss verdi (enkelttransaksjoner).

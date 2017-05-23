@@ -1,0 +1,101 @@
+== Transportsektoren
+
+Tre store trender - omstilling til lavutslippssamfunnet, urbanisering og digitalisering - vil prege transportsektoren framover. Dette representerer både utfordringer og muligheter. Flere analytikere oppfatter at transportsektoren er i starten av et _teknologisk skifte_, en periode med raskere teknologiske endringer og der teknologier som har vært ansett som bærebjelker innen transport på kort tid kan bli skiftet ut. Det vises særlig til biltransport, der de dristigste spår fullstendig utfasing av bensin- og dieselbiler til fordel for batteri¬elektriske biler før 2030, og at selvkjørende biler vil endre persontransport fra å handle om å eie en bil til å være bruker av en transporttjeneste.
+
+Den sistnevnte av de tre trendene – digitalisering – er ikke nytt i transportsektoren, men det kan se ut som om utviklingen er i ferd med å akselerere i en slik grad at transportsektoren om få år kan se svært annerledes ut. I transportsektoren brukes gjerne begrepet ITS (Intelligente Transportsystemer) om økt bruk av IKT i ulike systemer for trafikkstyring, reiseplanlegging, ruteoptimalisering m.m. Stadig billigere sensorer installert i stadig flere typer gjenstander generer sammen med mennesker som "alltid" er koblet til nettet, store mengder data som kan brukes av en rekke ulike aktører, både innenfor og utenfor transportsystemet.
+
+=== Europeiske initiativ på ITS-området
+
+Datatilfanget i transportsektoren øker voldsomt, samtidig som det vokser fram mange nye og innovative ITS-løsninger og tjenester rettet mot ulike deler av transportsektoren. Samtidig er det en utfordring at ulike ITS-løsninger og applikasjoner ikke "snakker sammen" – innenfor og på tvers av ulike transportformer, på tvers av ulike land, på tvers av administrative grenser innenfor land og på tvers av offentlig og privat virksomhet.
+
+Mot denne bakgrunnen lanserte EU-kommisjonen i 2008 sin  Handlingsplan for ITS (ITS Action Plan), samt ITS-direktivet (i 2010) som et juridisk instrument for å understøtte implementeringen av tiltakspunktene i handlingsplanen. ITS-direktivet gir EU-Kommisjonen fullmakt til å vedta bindende spesifikasjoner (i form av EU-forordninger), for ITS-tjenester og applikasjoner som utvikles i Europa, samt for dataene som disse løsningene/applikasjonene bygger på. Poenget med å lage spesifikasjoner/standarder for data/ITS-løsninger/applikasjoner er å sikre at ITS-løsninger og applikasjoner kan fungere sømløst i Europa. Når alle land avgir data på samme mal blir det lettere for privat sektor å lage applikasjoner og løsninger som fungerer grenseoverskridende i Europa.
+
+ITS-direktivet er begrenset til vegsektoren, men med _grenseflater _til andre transportformer. I disse "grenseflatene" finner vi særlig kollektivtransport. I direktivet settes det krav til løsninger, applikasjoner og dataformater på følgende seks områder, som er utpekt som prioriterte tiltak. De konkrete kravene finnes i EU-forordningene som er utarbeidet på alle de seks områdene (pkt. a. er fortsatt under arbeid i EU mens pkt. f. er foreløpig lagt på is av EU-kommisjonen).
+
+ . innføring av reiseinformasjonstjenester for ulike transportformer på EU-nivå
+ . innføring av sanntids trafikkinformasjonstjenester på EU-nivå
+ . data og framgangsmåter for vederlagsfri framskaffelse av et minimum av generell sikkerhetsrelevant informasjon om trafikken for brukerne, dersom dette er mulig
+ . harmonisert innføring av samvirkende eCall-tjenester på EU-nivå
+ . innføring av informasjonstjenester for sikker parkering av lastebiler og nyttekjøretøyer
+ . innføring av bestillingstjenester for sikker parkering av lastebiler og nyttekjøretøyer
+
+I tillegg til disse tiltakspunktene startet det på forsommeren 2016 også opp et arbeid i EU med å lage spesifikasjoner på feltet C-ITS (cooperative ITS), som omhandler krav til løsninger/applikasjoner/data for kommunikasjon bil-bil og bil-infrastruktur.
+
+Poenget med å lage spesifikasjoner/standarder for data/ITS-løsninger/applikasjoner er å sikre at ITS-løsninger og applikasjoner kan fungere sømløst i Europa. Når alle land avgir data på samme mal blir det lettere for privat sektor å lage applikasjoner og løsninger som fungerer grenseoverskridende i Europa. Norske aktører som genererer data innenfor veg- og kollektivsektoren er pliktige til å følge disse spesifikasjonene (Statens Vegvesen, kollektivselskapene, andre tjenesteytere).
+
+ITS-direktivet gjennomføres i norsk rett gjennom ITS-loven fra 2015. Loven gir Samferdselsdepartementet et hjemmelsgrunnlag dersom det i framtiden skulle være nødvendig å pålegge aktører i transportsystemet å gjøre data tilgjengelig i et spesielt format, eller å sette krav til ITS-løsninger eller applikasjoner.
+
+Flere av ITS-forordningene pålegger norske aktører å gjøre dataene tilgjengelige i et nasjonalt tilgangspunkt (national access point). Tilgang til Statens Vegvesens data kan fås gjennom det nasjonale tilgangspunktet http://www.data.norge.no[www.data.norge.no]
+
+=== Nå-situasjonen i samferdselssektoren
+
+==== Vegsektoren
+
+Statens Vegvesen tilgjengeliggjør i dag https://data.norge.no/organisasjoner/statens-vegvesen[en rekke viktige datasett]. Det er også Statens Vegvesen som har hovedansvar for å følge opp kravene i EU-forordningene avledet av ITS-direktivet, omtalt ovenfor. Disse kravene anses som oppfylt av etaten, og det rapporteres også jevnlig til EU-kommisjonen på dette punktet. Det er Samferdselsdepartementets vurdering at etatens tilrettelegging for viderebruk av offentlige data er relativt god. Interne utfordringer for økt tilgjengeliggjøring av data finnes, men disse jobbes det med. Bl.a. har etaten opprettet en egen gruppe i Vegdirektoratet på tre årsverk som jobber med tilgjengeliggjøring av data for viderebruk.
+
+I vegsektoren opererer også statens nye vegutbyggingsselskap – Nye Veier AS. Selskapet, som er relativt nytt, skal levere data om vegrelatert informasjon til Norsk Vegdatabank (NVDB), som driftes av Statens Vegvesen. Nye Veier leverer også informasjon om eiendommer som erverves til Statens kartverk. Nye veier vil i liten grad lagre egne datasett. Når Nye Veier utvikler datasett og modeller vil disse normalt bli levert til nasjonale registre gjennom kart- og geodatasamarbeid og NVDB.
+
+==== Kollektivsektoren
+
+Et viktig aspekt i arbeidet med å tilrettelegge for viderebruk av offentlige data i kollektivsektoren handler om å hente inn rutedata og gjøre disse tilgjengelig for reiseplanleggingstjenester. Rutedata, samt annen relevant informasjon som oversikt over stoppesteder og kartdata, er grunnlaget for god reiseplanlegging. Alle kollektivselskap i Norge rapporterer inn sine rutedata til en nasjonale rutedatabasen. Plikten til dette følger av lov. Jernbaneselskapene rapporterer inn sine rutedata på frivillig basis.
+
+Det er en målsetting at det skal være enkelt å benytte seg av kollektivtilbudet i Norge. Det er i denne sammenheng også en målsetting at publikum i fremtiden skal kunne søke frem, bestille og betale en kollektivreise i en og samme operasjon. Stortinget har blant annet bedt regjeringen om å ta initiativ til å opprette en nasjonal ordning med tilbud om elektronisk billett for sømløse kollektivreiser over hele landet.
+
+Arbeidet med å legge til rette for reiseplanlegging og elektronisk billettering har pågått over lengre tid. Statens initiativer er knyttet til å fastsette standarder for kunngjøring av rutedata, å hente inn og gjøre rutedata tilgjengelig for reiseplanleggingstjenester og å etablere en nasjonal og konkurransenøytral reiseplanleggingstjeneste. Staten fastsetter også standarder for elektronisk billettering og sørger for grunnleggende tjenester knyttet til disse standardene.
+
+I første tertial 2017 er det planlagt at statens nye selskap for reiseplanlegging og billettering, Entur AS, skal skilles ut fra NSB og eies direkte av Samferdselsdepartementet. Selskapet vil ha ansvar for å tilby en nasjonal, nøytral reiseplanlegger for all kollektiv, en salgskanal for billetter på tvers av togselskap og kollektivselskap i første omgang der det finnes takstsamarbeidsavtaler i dag, samt ha ansvar for en rekke databaser og baksystemer for reiseplanlegging og billettering.
+
+Jernbaneverket (oppgaven flyttes til Bane NOR SF fra 1.1.2017) har ansvar for ruteinformasjon og ruteplandata for jernbanen. Denne informasjonen samles i systemet Kari og alle som er registrert på Jernbaneverkets server kan få tilgang. I tillegg offentliggjør Jernbaneverket punktlighetsstatistikk på sine nettsider i excel-format.
+
+Statens jernbanetilsyn har per i dag ingen data tilgjengeliggjort for viderebruk og tilsynet har heller ikke registrert noen etterspørsel etter deres data. Tilsynet forvalter et vognregister for jernbanemateriell som er felles for alle medlemsland i EU. Tilsynet utvikler for tiden nye registerløsninger for fagområdene taubane og fornøyelsesinnretninger og vil i samarbeid med bl.a. bransjeorganisasjonene vurdere behov for tilgjengeliggjøring av disse datasettene.
+
+==== Sjø
+
+I henhold til Kystverket har det skjedd en enorm utvikling av nye tjenester basert på deling av offentlige data og informasjon, med stor betydning for Kystverkets samarbeidspartnere og profesjonelle brukere. De store driverne for utviklingen er Kystverkets kunder/brukere. Behovet for bedre og nye tjenester, at offentlige data har stor nytte for profesjonelle brukere til sjøs og for næringen, samt for samarbeidende myndigheter, er det som driver utviklingen videre. Norske myndigheter har de siste årene fått tilgang til helt nye verdensledende verktøy innen overvåkning og myndighetsutøvelse i kyst- og havområdene våre.
+
+Ifølge Kystverket er kystsektoren i Norge i tet på tilgjengeliggjøring og deling og kobling av offentlige data og informasjon, både internt i Norge, men også med andre land. Særlig gjelder dette samarbeidet i Europa innen skipsrapportering og AIS (Automatisk Informasjonssystem). Det vises også til samarbeidet mellom 30 etater i BarentsWatch-samarbeidet, hvor formålet nettopp er å dele, koble og tilgjengeliggjøre offentlige data knyttet til hav og kyst med fokus på nordområde. Her skapes helt nye tjenester for profesjonelle brukere til sjø og for myndighetene.
+
+I sektoren er datasett tilgjengelige gjennom egne API-er og gjennom portaler som geonorge.no, nedlasting.kystverket.no, barentswatch.no og data.norge.no.
+
+==== Luftfart
+
+Avinor har ikke enda svart på oppdragsbrev om kartlegging av nåsituasjonen m.h.t. tilrettelegging for viderebruk av offentlige data. Samferdselsdepartementet må derfor få komme tilbake med mer informasjon om status i denne sektoren senere.
+
+Luftfartstilsynet gjør data tilgjengelig på sine nettsider. Eksempler på tilgjengelige data er oversikt over norskregistrerte luftfartøy, kontrollanter, flyleger og UH-informasjon. Problemstillinger knyttet til globalisering av luftfart har medført noe større etterspørsel etter data, med etterspørselen har så lavt volum at Luftfartstilsynet ikke anser det som ressursøkonomisk å etablere tjenester der dataene kan hentes ut via API'er e.l. Imidlertid har Luftfartstilsynet i sitt Målbildet 2018+ som delmål å levere enda bedre tjenester til eksterne brukere. I den pågående omorganiseringen i Luftfartstilsynet er også brukernes behov en viktig dimensjon. Deling av offentlige data er et tema som kan gå inn i dette arbeidet, samt tilsynets arbeid med å oppdatere sin digitaliseringsstrategi, et arbeid som vil skje i 2017.
+
+==== Ekomsektoren
+
+Nasjonal kommunikasjonsmyndighet har lagt ut en rekke datasett på data.norge.no I tillegg er det laget en oversikt over data på Nkoms eget nettsted Nkom.no. Det er Nkoms inntrykk at dataene brukes aktivt, særlig som bakgrunn av analyser gjort i meglerhus og blant bransjeaktører, forbrukermyndigheter og media.
+
+Etaten har ikke statistikk for hvilke åpne data som blir mest brukt, men erfarer at tall fra ekommarkedene (mobil, bredbånd, osv.) er svært mye brukt. Etaten forventer den samme utviklingen framover, men også en økning i tall over kapasitetsmåling for mobil/bredbånd, som lagres av brukerne selv påhttp://www.nettfart.no/[ www.nettfart.no].
+
+==== Annet
+
+Statens Havarikommisjon er del av transportsektoren, om enn noe på siden, som en faglig uavhengig og svært spesialisert etat. Etaten produserer rapporter fra ulykker og hendelser, og har ellers ikke registerdata eller fagsystemer av noe slag. Etaten opplever i økende grad en forventning om å være bidragsyter i europeiske databaser for ulykker eller ulykkesundersøkelser, for eksempel European Marine Casualty Information Platform (EMCIP), European Railway Agency Database for Interoperability and Safety (ERADIS) og Safety Recommendatio Information System (SRIS). Dataene blir da registrert direkte i de europeiske databasene og etaten har ikke noen lokal variant av tilsvarende databaser. +
+Statens Havarikommisjon har et avgrenset mandat og informasjonen som forvaltes er i stor grad underlagt taushetsplikt. Resultatene som offentliggjøres er i form av offentlige rapporter, i henhold til kommisjonens mandat.
+
+=== Sentrale problemstillinger framover hva gjelder data i transportsektoren
+
+==== Samvirkende ITS
+
+Mange ITS-løsninger og applikasjoner er relativt transportformspesifikke eller etatsspesifikke. Imidlertid er det slik at de kanskje største gevinstene av ITS og digitalisering i transportsektoren kan tas ut når en begynner å koble applikasjoner, løsninger og systemer sammen på tvers av transportformene. Et begrep for slik sammenkobling er Samvirkende ITS. Ved samvirkende ITS utnyttes kommunikasjon mellom kjøretøy, trafikanter, og infrastruktur for å oppnå bedre framkommelighet, økt trafikksikkerhet og mer miljøvennlig mobilitet. Samvirkende ITS muliggjør deling av informasjon om kjøretøyers plassering, bevegelse og andre data fra mobiltelefoner og kjøretøy. Dette kan gi bedre mobilitetstjenester for alle trafikanter. Slike løsninger åpner for avansert styring av trafikken og helt nye muligheter som kan bidrar til bedre trafikksikkerhet og miljø. I dag arbeider myndigheter, bilindustri, standardiseringsorganer, teknologi- og tjenesteleverandører tett sammen for å realisere mulighetene som ligger i Samvirkende ITS systemer.
+
+Det er særlig i byer at samvirkende ITS har et potensial til å bidra til å nå mål om mer effektiv bruk av eksisterende fysisk infrastruktur, bedre trafikkflyt og større overgang av reisende fra bil til kollektiv/sykkel eller gange, understøttet av bedre og mer personaliserte tjenester fra mobilitetsleverandører, tilgjengeliggjort for trafikanter gjennom mobiltelefonene deres.
+
+==== Samvirkende ITS kan gi en ytterligere vekst i mengden data generert i transportsektoren
+
+Bak løsninger som f eks. reiseplanleggere, billetteringsløsninger og applikasjonsbaserte samkjøringsløsninger ligger det store mengder data, skaffet vil veie av ulike aktører i transportsystemet. I framtiden er det ventet at trafikantene selv vil generere ytterligere data om sin egen reiseadferd, enten som reisende med kollektivsystemene, eller som førere av en bil. I førstnevnte tilfelle snakker vi om utvikling av den type Ruter har gjennomført gjennom sitt pilotprosjekt på 60-bussen, hvor de reisende avgir eksakt informasjon om sin reiseadferd gjennom beaconssignaler (nettvarder) når de går på og av bussen. Denne informasjonen kan f eks. brukes av Ruter til betalingsoppgjør (dette har potensial til å spare selskapet for betydelige utgifter til reisekort og automater), eller andre type tjenester, f eks. at Ruter kan bruke dataene til å gi den reisende en bedre tjeneste i form av varslinger på telefonen om forsinkelser, råd om å gå tidligere hjemmefra eller ta sykkel den aktuelle dagen pga. signalfeil i t-banenettet, forslag til alternative reiseruter m.m. – alt basert på hva Ruter vet om din tidligere reiseadferd. Kollektivselskap kan også bruke denne type data til å forbedre ruteplanleggingen sin m.m. En lignende type kilde til data er teledata fra Telekomselskapene. Ut fra signaler om mobiltelefonens oppkobling langs reisen kan man måle reisemønstre på et aggregert nivå. Denne type data kan igjen brukes av en rekke ulike aktører som f eks. til planleggingsformål, som grunnlag for forskning m.m.
+
+På samme måte som kollektivreisende kan avgi informasjon om sin reiseadferd vil også bilister kunne gi informasjon om sin. Når alle biler etter hvert blir "connected" vil alle bilers bevegelser i trafikken bli logget, og det vil her bli snakk om store mengder data. Dette åpner igjen for en hel rekke muligheter og tjenesteområder, fra informasjon om rutevalg og reisetider (som allerede i dag tilbys fra f eks. Google Maps, som baserer sin informasjon på signaler de reisende avgir når de har slått på stedsangivelsen i mobilapp'en Google Maps), til ulike typer digitalisert trafikkstyring i byer. I tillegg til spørsmål om ren tilrettelegging for viderebruk av offentlige data, vil Samferdselsdepartementet og underliggende virksomheter her møte på problemstillinger av nyere karakter, bl.a. knyttet til muligheter som ligger i stordata (big data) og muligheter for utnyttelse av data fra private selskap, som vil kunne ha stor nytteverdi for samferdselsmyndighetene.
+
+Et nyere trekk ved samferdselssektoren i dag er en relativt kraftfull inntreden i sektoren av nye aktører som tidligere ikke har spilt en sentral rolle i transportmarkedet, eksempelvis tilbys flere  trafikkstyringsløsninger til trafikanter. I framtiden er det ikke utenkelig at slike løsninger blir svært utbredt og det er også da sannsynlig at samferdselsmyndighetene etter hvert må forholde seg til denne utviklingen på en annen måte enn tidligere. Denne utviklingen kan reise nye problemstillinger rundt grensedragningen mellom offentlig og privat sektor om eksempelvis trafikkstyring. Et sentralt spørsmål hva gjelder data i framtidens transportsektor handler derfor ikke bare om å tilrettelegge for viderebruk av offentlige data, men også om hvordan offentlig sektor kan nyttiggjøre seg av data samlet inn av privat sektor.
+
+==== Cybersecurity og IKT-sikkerhet
+
+I framtidens digitaliserte transportsystemer vil det bli viktig å sikre seg at mot at lokale systemer i kjøretøyer eller sentrale styringssystemer kan påvirkes av andre (hacking, sabotasje med mer). En ting er at enkeltkjøretøyer kan komme ut for ulykker, men for eksempel falske vegmeldinger vil også lett kunne skape kaos og lede trafikanter inn i farlige situasjoner. Samtidig som internett og nye tjenester skaper store muligheter for utvikling og vekst, viser de åpne trusselvurderingene fra E-tjenesten, PST og NSM at digitaliseringen av samfunnet og økt internasjonalisering skaper nye arenaer for kriminelle handlinger med sikte på økonomisk vinning, spionasje og sabotasje. Ekomnettene og transportsystemer kan både være en bærer av kriminelle handlinger i cyberdomenet eller være mål i seg selv, enten hensikten er spio­nasje eller å ramme kritiske samfunnsfunksjoner.
+
+Også IKT-sikkerhet bør være et satsingsområde i framtidens digitaliserte transportsystemer. NOU 2015:13 Digital sårbarhet – sikkert samfunn (Lysneutvalget) påpeker at IKT-sikkerhet i transportsystemet ikke er avgrenset til å sikre ekomnett- og tjenester. Transportsystemet i sin helhet består av flere komponenter eller delsystemer, som omfatter alt fra selve infrastrukturen, via signal- og styringssystemer, til transportmidlene og deres systemer. Den digitale utviklingen kjennetegnes av økende integrasjon mellom disse systemene og dertil økende kompleksitet. Det sentrale i denne sammenheng er at alle disse delsystemene kan ha sine egne digitale sårbarheter som kan svikte eller utnyttes.
+
+==== Personvern
+
+I framtiden vil samferdselsmyndigheter i større grad vil stå ovenfor utfordringen med at jo flere datakilder som kobles sammen og dermed kan gi store trafikale gevinster, jo større er utfordringene knyttet til ivaretakelse av personvernet. Det er naturlig at samferdselsmyndighetene vil måtte vie mer tid til spørsmål knyttet til personvern etter hvert som utviklingen innen ITS og digitalisering går framover.

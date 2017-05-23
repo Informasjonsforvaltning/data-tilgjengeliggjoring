@@ -10,6 +10,8 @@ v0.1
 :toclevels: 3
 :sectanchors:
 
+// :sectnums:
+
 {description}
 
 include::utils/download.adoc[]
@@ -22,3 +24,11 @@ include::Del1.adoc[]
 include::DEL2_Innledning.adoc[]
 
 include::Kart_eiendom.adoc[]
+
+include::Transport.adoc[]
+
+include::Statlige_utgifter.adoc[]
+
+include::Forskning.adoc[]
+
+include::Kultur.adoc[]
