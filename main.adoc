@@ -3,13 +3,12 @@ include::utils/translation.adoc[]
 = Kunnskapsgrunnlag - økt tilgjengeliggjøring av offentlige data
 Direktoratet for forvaltning og IKT
 v0.1
-:description: Kunnskapsgrunnlag...
+:description:
 :doctype: book
 :icons: font
 :toc: left
-:toclevels: 2
+:toclevels: 3
 :sectanchors:
-:sectnums:
 
 {description}
 
