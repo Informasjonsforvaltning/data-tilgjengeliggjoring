@@ -1,0 +1,117 @@
+== Kart og eiendomsdata
+
+Kartverket har flere ulike formidlingskanaler og flere varianter av leveransebetingelser for informasjon som leveres ut.
+
+=== Formidlingskanaler
+
+De vanligste formidlingskanalene er
+
+ * levering av grunndata via _fysiske filer_
+ * utlevering av informasjon som _tjenester_
+ * ferdige _innsynsløsninger_ (applikasjoner) beregnet på publikum
+
+For tilgang til fysiske filer, som vektor, raster eller som tabellinformasjon benyttes selvbetjente _nedlastingsløsninger_. Enten via  http://www.geonorge.no[_www.geonorge.no]_ for alle data som er gratis eller https://download.geonorge.no/skdl2/nl2prot/nl2[https://download.geonorge.no/skdl2/nl2prot/nl2] for Norge digitalt parter eller virksomheter med avtale. De mest vanlige utvekslingsformatene er SOSI, GeoJson, FGDB og Shape for vektordata, Geo Tiff og MrSID for rasterdata og PDF for dokumenter.
+
+Et alternativ til fysiske filer er bruk av program-til-program-tjenester. Bruk av slike tjenester er nødvendig i alle sammenhenger der brukeren har behov for oppdatert informasjon. Kartverket leverer i hovedsak tre typer tjenester:
+
+ * _Web Map Service_ (wms) er en tjeneste som leverer kartbilder som er skalerbare og egner seg for visning på PC. Wms benyttes ofte som underlag for annen type tema informasjon. Kartverket har mellom 100 og 130 slike tjenester som viser ulike varianter grunnkart, se oversikt her: http://status.kartverket.no/tjenester/openwms.py[http://status.kartverket.no/tjenester/openwms.py]. Disse er fritt tilgjengelig for Norge digitalt parter, mens annen bruk har en teknisk begrensning på 300 kartbilder i døgnet.
+ * _WMS-C Cachetjenester_. Cache-tjenestene er basert på WMS-tjenestene, men leverer raskere. Cahce-tjenester baresres på et hurtiglager med pregenererte kartbilder eller fliser (”tiles”) på 256x256 piksler i predefinerte målestokker (zoomnivåer), på tilsvarende måte som f.eks. Google Maps er bygd opp. Dette er de tjenestene som benyttes mest fra Kartverket når det gjelder visning av kart.
+ * _Web Feature Service_ (wfs) er en tjeneste som leverer vektorer som mottaker selv kan bearbeide (i motsetning til bildene som leveres fra wms-tjenestene). Opplysninger om eiendomsgrenser fra matrikkelen er et eksempel på en wfs-tjeneste: http://www.test.matrikkel.no/innsynapi_v3/docs/index.html#WFS[http://www.test.matrikkel.no/innsynapi_v3/docs/index.html#WFS]
+ * _Web Service_ (ws) er tjenester på linje med de som er nevnt først, men leverer i utgangspunktet ikke geografiske objekter. Opplysninger fra sentralt stedsnavnregister, matrikkelen og grunnboka er informasjon som leveres ut som ws-tjenester, se f.eks. sentralt stedsnavnregister https://ws.geonorge.no/SKWS52/dok/SSR_sok_v52.html[https://ws.geonorge.no/SKWS52/dok/SSR_sok_v52.html]
+ * _WPS-tjeneste._ Kartverket kjører en OGC Web Prosessing tjeneste i eksperimentell drift på http://openwps.statkart.no/skwms1/wps.elevation[http://openwps.statkart.no/skwms1/wps.elevation]. Foreløpig tilbyr vi en tjeneste for å hente høyde- og terrenginformasjon. Tjenesten er tilgjengelig gjennom WPS-protokollen.
+
+I tillegg til disse leveres posisjonstjenester fra Geodesidivisjonene, CPOS. Tjenesten består av korreksjonsdata som sendes ut i sanntid ved hjelp av et GSM- eller GPRS-modem på formatene RTCM og CMR+. Med utgangspunkt i mottatte korreksjoner, kan brukerens GPS /GLONASS-mottaker beregne sin posisjon nøyaktig til enhver tid. Tjenesten krever autentisering via brukernavn og passord.
+
+For publikum har Kartverket _innsynsløsninger_ som driftes alene eller sammen med andre. De tre mest besøkte er http://www.norgeskart.no[www.Norgeskart.no], http://www.seeiendom.no[www.seeiendom.no] og http://www.norgeibilder.no[www.norgeibilder.no] , den siste sammen med Skog og landskap og Statens vegvesen. Dette er gratisløsninger som viser den informasjonen Kartverket har på digital form, som ikke er begrenset av lovverket og som egner seg for visning på denne måten.
+
+=== Leveransebetingelser
+
+For alt som leveres gratis ut benytter Kartverket lisensen CCBY 4.0, se  https://creativecommons.org/licenses/by/4.0/[https://creativecommons.org/licenses/by/4.0/]
+
+For informasjon som leveres med betalingsbetingelser avtales i utgangspunktet betingelsene for bruk og viderebruk med en lisens basert på disposisjons- og publiseringsrett.
+
+For noen informasjonstyper vil hensynet til nasjonal sikkerhet, for eksempel detaljerte dybdedata i kystnære områder (innenfor 12 nautiske mil), eller hensynet til personvernet, for eksempel deler av Matrikkelen, begrense adgangen til bruk og viderebruk.
+
+==== Gratis og fri viderebruk (CCBY 4.0)
+
+|===
+|Type|Frigitt|Fysiske filer til nedlasting med format (Selvbetjening)|wms|wfs, ws|Norgeskart (NK)
+Se eiendom (SEE)
+
+|Administrative grenser|2013|Sosi, Geojson|Ja||NK, SEE, NIB
+|Vegdata m/ adresser|2013|Sosi og tabell|Ja||NK, SEE, NIB
+|N50- N5000 Kartdata Raster og vektor|2013|Sosi, Geojson
+Geo Tiff, PostGis, MrSid|Ja||NK
+|Terrengmodeller (10x10 og 50*50)|2013|USGS DEM|Ja||NK
+|Stedsnavn Norge|2013|SOSI, GeoJson||Ja|NE, SEE, NIB
+|Illustrasjonskart|2013|GIF, TIFF, AI, PPT|||
+|Digital EFS|2014|PDF|||
+|Historiske kart sjø|2011|GIF|||Wikipedia
+|Historiske kart land|2014|TIFF|+++<u>+++Ja+++</u>+++||NK
+|Maritime geodata|2015|Sosi
+S57
+Shape|+++<u>+++Ja+++</u>+++||NK
+|Digital terrengmodell Sjø|2015|xyz|+++<u>+++Ja+++</u>+++||
+|Adresser fra Matrikkel|2015|Csv, Sosi||+++<u>+++WfsWs+++</u>+++|NK, SEE, NIB
+|HREF|2015|Xyz|||
+|===
+*innenfor 12 nautiske mil må man søke forsvaret om tilgang og betale en uttakskost.  +
+Vegdata m/ adresser omfatter både geometri med vegnavn (Vbase) og vegrestriksjoner + adresser (ELVEG) og forvaltes i samarbeid med Vegvesenet.  +
+Det meste av sjødata ble frigitt i april 2015, med unntak av offisielle sjøkart (POD og ENC).
+
+==== Informasjon og tjenester mot betaling
+
+|===
+||Planer om frigivelse|Fysiske filer til nedlasting med format (Selvbetjening)|Begrensninger i tillegg til betaling|Tjenester|Norgeskart (NK)
+Se eiendom (SEE)
+
+||||||
+|||Geotiff, POD (PDF)||Wms (gratis)|+++<u>+++NK+++</u>+++
+||||||
+|*Posisjontjenester*|||||
+|Cpos||||RTCM og CMR|
+|Dpos|I løpet av 2017, begrenset til, i første omgang, noen utvalgte for å teste infrastruktur.|||RTCM og CMR|
+|Etpos||xyz|||
+|Fra PGS||||RTCM og CMR|
+|*Diverse*|||||
+|Flybilder (før de blir ortofoto)|Det betales uttakskost i dag||||
+||||||
+|*Grunnboken*|||||
+|Fast eiendom|||Ja|wfs, ws|SEE
+|Borett|||Ja|wfs, ws|SEE
+||||||
+|*Matrikkel*|||||
+|Data uten personopplysninger||csv||Wms, wfs, ws|SEE
+|Utlevering etter søknad||csv|Ja|wfs, ws|
+||||||
+|*Detaljerte kartdata*|||||
+|FKB alle temagrupper||SOSI|Ja|Wms|NK, SEE
+|||SOSI, TIFF|Ja|wms, wfs, ws|NK
+|||GEO TIFF|Ja|wms|NIB
+|||GEO TIFF|Ja|wms|NIB
+|===
+
+==== Sjøinformasjon
+
+ENC (Electronic Navigational Charts) videreformidles via Primar (regionalt koordineringssenter for offisielle elektroniske sjøkart). Øvrig digital informasjon videreformidles via virksomheter med avtale eller på forespørsel direkte fra Kartverkets sjødivisjon. Tilgang til detaljerte maritime geodata er begrenset med hjemmel i lov om forsvarshemmeligheter (innen 12 nautiske mil og detaljnivå 1*1 meter).
+
+==== Posisjonstjenester
+
+Tilbys enten som data fra det permanente geodetiske nettverket (PGS) i sanntid til virksomheter med avtale eller som korreksjonsdata rett fra Kartverket til sluttbrukerenheten. Signalene formidles på RTCM og CMR+ format via GSM (Mobil) eller internett. Brukere kan inngå abonnementsavtale med Kartverket eller via virksomheter som har avtale med Kartverket__.__ +
+CPOS gir cm nøyaktighet mens DPOS gir brukeren dm nøyaktighet. ETPOS (ettertidsdata) leveres som filer på forespørsel, mens HREF (Høydereferansemodell) leveres på forespørsel eller som en del av abonnementet.
+
+==== Historiske kart og flybilder
+
+Det er kun en liten andel av flybildene som er digitale, de øvrige digitaliseres og formidles på forespørsel direkte fra Landdivisjonen. (Uttakskost)
+
+==== Eiendomsinformasjon
+
+Eiendomsinformasjon utleveres i henhold til tinglysingsloven §§ 12b og 38 og matrikkellova §§ 29, 30 og 32. Den viktigste formelle begrensningen for tilgang og viderebruk er knyttet til hensynet til personvernet.
+
+Opplysninger fra grunnboken og matrikkelen formidles via virksomheter med avtale, eller til offentlig organ som benytter opplysninger som ledd i sin myndighetsutøvelse. Virksomheter betaler enten fastpris pr år, uten rapportering eller benytter tjenestene med pris pr oppslag. Publikum kan gjøre oppslag i matrikkel og grunnbok via http://www.seeiendom.no[www.Seeiendom.no]. Det gjelder både innsyn i eiendomsinformasjon og informasjon om heftelser på en eiendom.
+
+==== Detaljerte kartdata land
+
+Detaljerte kartdata for land er etablert ved hjelp av samfinansiering gjennom GEOVEKST-samarbeidet eller av storkommunene (Oslo, Bærum, Stavanger, Bergen Trondheim). Kartverket videreformidler dataene ved hjelp av virksomheter med avtale, kommunene formidler i tillegg dette selv. Rettigheter til etablerte data, og fremtidig etablering og ajourføring kan bli en utfordring dersom en ønsker å gjøre data billigere eller helt gratis.
+
+For publikum vises dataene gratis i Norgeskart.no og som egne WMS-tjenester.
