@@ -1,10 +1,7 @@
-= Kunnskapsgrunnlag - økt tilgjengeliggjøring av offentlige data
 
 
-Dokumentets status: Utkast - ikke offentlig +
-Sist oppdatert: 21.04.2017 +
-Del 1 skrevet av: Øystein Åsnes og Heather Broomfield (Difi) +
-Bidragsytere:
+Del 1 skrevet av: Heather Broomfield  og Øystein Åsnes (Difi) +
+Bidragsytere: Øyvind Grinde, Livar Bergheim, Marta Kari Schawlann
 
 Det offentlige produserer store mengder data i sin saksbehandling og myndighetsutøvelse. Tilgang på data, og kunnskap om hvordan de kan brukes, er i økende grad en forutsetning for å kunne ta beslutninger, utvikle nye tjenester og å utøve et åpent og opplyst demokrati. Data blir i økende grad brukt i andre sammenhenger, til andre formål og av andre aktører enn det som var utgangspunktet da informasjonen ble skapt.
 
