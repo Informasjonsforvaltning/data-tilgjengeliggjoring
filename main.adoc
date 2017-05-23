@@ -20,6 +20,6 @@ include::utils/download.adoc[]
 // Innhold her.
 include::Del1.adoc[]
 
-include::DEL2_innledning.adoc[]
+include::DEL2_Innledning.adoc[]
 
 include::Kart_eiendom.adoc[]
