@@ -9,6 +9,7 @@ v0.1
 :toc: left
 :toclevels: 3
 :sectanchors:
+:title-logo-image: utils/logo.jpg
 
 // :sectnums:
 

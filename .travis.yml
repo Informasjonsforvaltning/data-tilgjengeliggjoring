@@ -4,4 +4,4 @@ services:
   - docker
 
 script:
-  - docker run --rm -it -v $(pwd):/documents -e "pdf=true" difi/asciidoctor
+  - docker run --rm -it -v $(pwd):/documents -e "epub=true" -e "pdf=true" difi/asciidoctor
