@@ -1,8 +1,13 @@
 
 
-Del 1 skrevet av: Heather Broomfield  og Øystein Åsnes (Difi) +
-Bidragsytere: Øyvind Grinde, Livar Bergheim, Marta Kari Schawlann
+[NOTE]
+====
 
+Del 1 er skrevet av Difi ved Heather Broomfield og Øystein Åsnes. Bidragsytere har vært Øyvind Grinde, Livar Bergheim og Marta Kari Schawlann.
+
+Nåsituasjonen i link:\\#_del_2_status_for_de_fem_sektorene[Del 2: Status for de 5 sektorene], er beskrevet av ansvarlig departement. Kontaktpersoner er Kari Strande - Kommunal- og moderniseringsdepartementet (kart- og eieendomsdata), Ida Monclair - Samferdelsdepartementet (transport), Astri Tverstøl - Finansdepartementet (stalige utgifter), Hanne Monclair - Kunnskapsdepartementet (forskning) og Bjørn Olav Vik - Kulturdepartementet (kultur)
+
+====
 Det offentlige produserer store mengder data i sin saksbehandling og myndighetsutøvelse. Tilgang på data, og kunnskap om hvordan de kan brukes, er i økende grad en forutsetning for å kunne ta beslutninger, utvikle nye tjenester og å utøve et åpent og opplyst demokrati. Data blir i økende grad brukt i andre sammenhenger, til andre formål og av andre aktører enn det som var utgangspunktet da informasjonen ble skapt.
 
 Økt tilgang på offentlige data og kunnskap om hvordan de kan brukes, er viktig for å legge til rette for størst mulig verdiskapning i en stadig mer datadrevet økonomi. Regjeringen har derfor valgt ut fem sektorer der det skal lages strategier (og eventuelle handlingsplaner) for økt økt tilgjengeliggjøring av offentlige data. Som et ledd i dette arbeidet har Difi fått i oppdrag av KMD å publisere et kunnskapsgrunnlag som skal gi oversikt over nå-situasjonen og en beskrivelse av kjente utfordringer for områdene _statlige utgifter, transport, kart- og eiendomsdata, kultur _og _forskning_. Formålet er å bidra til å identifisere mulige tiltak i form av prioriteringer, beslutninger og avklaringer for å nå målet om økt tilgang på data fra de fem sektorene.
@@ -33,7 +38,7 @@ Det er mye aktivitet i Europa knyttet til transportsektoren og høy etterspørse
 
 == Status for åpne data i Norge
 
-Tjenesten data.norge.no, med en nasjonal katalog over åpne data fra det offentlige, ble lansert i 2011. Pr. 31.12.16 er det rundt 6700 individuelle datasett fra 83 statlige og kommunale virksomheter i katalogen. En stor bidragsyter er SSB sin statistikkbank med over 5000 tabeller.
+Tjenesten https://data.norge.no[Data.norge.no], med en nasjonal katalog over åpne data fra det offentlige, ble lansert i 2011. Pr. 31.12.16 er det rundt 6700 individuelle datasett fra 83 statlige og kommunale virksomheter i katalogen. En stor bidragsyter er SSB sin statistikkbank med over 5000 tabeller.
 
 Per i dag er det ingen lovpålagt plikt til å legge data ut for viderebruk. Offentleglova har imidlertid bestemmelser om hvordan offentlige data for viderebruk skal tilgjengeliggjøres.  +
 **
@@ -43,7 +48,7 @@ Digitaliseringsrundskrivet sier at virksomheten skal “gjøre egnet informasjon
 
 I tillegg er det etablert noen virkemidler for å fremme tilgang til og viderebruk av offentlige data:
 
- * Tjenesten «data.norge.no»,  som er en nasjonal katalog over datasett som er tilgjengelig for viderebruk.
+ * Tjenesten «https://data.norge.no[Data.norge.no]»,  som er en nasjonal katalog over datasett som er tilgjengelig for viderebruk.
  * Tjeneste for distribusjon av data («Datahotellet»).
  * Retningslinjer ved viderebruk av offentlige data.
  * Veileder i tilgjengeliggjøring av åpne data
@@ -55,15 +60,15 @@ Noen utfordringer og kritiske suksessfaktorer som beskrives av sektorene, er (el
 
 === Lite kunnskap om bruk og effekter
 
-Verdier skapes først når data blir tatt i bruk. Etter 5 år med data.norge.no er nå mange datasett med høy verdi gjort tilgjengelig, og det er behov for å måle effektene. Dette er en fase som mange land er inne i. Kunnskapen om effektene er viktig for å stimulere til mer tilgjengeliggjøring. Manglende kunnskap om effekter kan derfor sees som et hinder for tilgjengeliggjøring.
+Verdier skapes først når data blir tatt i bruk. Etter 5 år med https://data.norge.no[Data.norge.no] er nå mange datasett med høy verdi gjort tilgjengelig, og det er behov for å måle effektene. Dette er en fase som mange land er inne i. Kunnskapen om effektene er viktig for å stimulere til mer tilgjengeliggjøring. Manglende kunnskap om effekter kan derfor sees som et hinder for tilgjengeliggjøring.
 
 Åpne data blir som regel publisert åpent, uten krav til å registrere seg for å få tilgang, og det er heller ikke mulig å stille krav til at brukerne må rapportere om hva datasettene blir brukte til. Selv om vi har god oversikt over hvilke datasett som er tilgjengelig, har vi altså begrenset oversikt over hva de brukes til.
 
-Data.norge.no har en katalog over apper og tjenester som bruker åpne data. Brukerne kan selv logge inn og registrere nye oppføringer, og til nå er det nærmere https://data.norge.no/app[70 oppføringer i registeret]. Vi opplever at det er en viss terskel for å registrere produkter i registeret. Kartverket og Kulturrådet har egne oversikter over applikasjoner og tjenester som bruker henholdsvis kart- og kulturdata.
+https://data.norge.no[Data.norge.no] har en katalog over apper og tjenester som bruker åpne data. Brukerne kan selv logge inn og registrere nye oppføringer, og til nå er det nærmere https://data.norge.no/app[70 oppføringer i registeret]. Vi opplever at det er en viss terskel for å registrere produkter i registeret. Kartverket og Kulturrådet har egne oversikter over applikasjoner og tjenester som bruker henholdsvis kart- og kulturdata.
 
 I tillegg til relativt synlige effekter i form av mobilapplikasjoner og tjenester inngår åpne data også i tjenestekjeder og i eksisterende arbeidsprosesser både i og utenfor offentlig sektor. Eksempler her er vasking av interne register mot enhetsregisteret og bruk av åpne kartdata i fagsystemer. Åpne data fra det offentlige bidrar dermed til mer effektive arbeidsprosessser. Men de samfunnsøkonomiske gevinstene er utfordrende å både synliggjøre og å måle.
 
-Man kan se på statistikk for antall nedlastinger av datasett og på hvor mange spørringer som blir gjort mot maskingrensesnitt (API-er) som leverer ut data, dersom denne informasjonen er tilgjengelig. Ettersom data.norge.no bare inneholder beskrivelser av data (ikke selve datasettene), er dette informasjon som per i dag ikke samles inn eller benyttes som måleindikator av Difi.
+Man kan se på statistikk for antall nedlastinger av datasett og på hvor mange spørringer som blir gjort mot maskingrensesnitt (API-er) som leverer ut data, dersom denne informasjonen er tilgjengelig. Ettersom https://data.norge.no[Data.norge.no] bare inneholder beskrivelser av data (ikke selve datasettene), er dette informasjon som per i dag ikke samles inn eller benyttes som måleindikator av Difi.
 
 Alle de fem områdene har gjort data tilgjengelig, men vi vet i dag lite om hvilke tjenester og prosesser datasettene inngår i, og hvilke effekter dette gir. En antatt sideeffekt ved økt bruk er at også datakvaliteten forventes å øke som et resultat av flere tilbakemeldinger fra brukerne. Utvikling av gode måleindikatorer for å måle bruk av data og effektene dette gir, er en utfordring som mange land prøver å løse.
 
@@ -76,9 +81,10 @@ Mobilisering av publikum som produsenter av data – såkalt nettdugnad (crowdso
 
 Det kan være utfordrende for dataforvaltere å vite hva som bør prioriteres først, når det ikke foreligger konkrete forespørsler i markedet. Samtidig er det krevende for potensielle brukere (både internt i offentlig sektor og for næringsliv og sivilsamfunn) å etterspørre data på en konkret måte uten kjennskap til hvilke data offentlig sektor forvalter. Virksomheten bør derfor vedlikeholde og publisere en oversikt over de viktigste dataene de forvalter slik at tilgjengeliggjøring kan prioriteres ut fra brukernes behov.
 
-Flere av sektorene peker på at økosystemet er viktig, og Kart- og eiendomssektoren er spesielt tydelige på dette behovet. De har uttrykt følgende som en av sine hovedmål i høringsutkastet til strategi:
+Flere av sektorene peker på at økosystemet er viktig, og Kart- og eiendomssektoren er spesielt tydelige på dette behovet. De har uttrykt følgende som en av sine hovedmål i https://www.geonorge.no/globalassets/geonorge2/ny-nasjonal-geodatastrategi/geodatastrategi-utkast_140217.pdf[høringsutkastet til strategi]:
 
-"_Mål 3: Et velfungerende samspill om forvaltning, deling, utvikling og innovasjon mellom aktørene i offentlig og privat sektor_”
+[quote, Alt skjer et sted - Forslag til nasjonal geodatastrategi]
+Mål 3: Et velfungerende samspill om forvaltning, deling, utvikling og innovasjon mellom aktørene i offentlig og privat sektor_”
 
 De har også målsetninger om å videreutvikle felles arenaer for offentlig-privat samarbeid og å skape aktive miljøer og fellestiltak for innovasjon og FoU. Strategien er også opptatt av mobilisering av publikum som produsenter av data.
 
@@ -104,10 +110,13 @@ En annen utfordring for flere er problemstillinger knyttet til eierskap til data
 
 === Behov for kompetanse om deling og bruk av data
 
-For å utnytte mulighetene må brukerne ha kunnskap om hvordan dataene kan utnyttes. Mye av innsatsen har til nå blitt rettet mot å etablere bevissthet rundt _deling_ av data. Dette må utvides til også å omfatte utvikling av kunnskap knyttet til _bruk_ av data. Samtidig bør offentlig sektor i større grad se sin rolle som konsumenter av åpne data fra det offentlige i en stadig mer datadrevet forvaltning, og bygge opp nødvendig kompetanse til å utnytte dette.  +
-Kart- og eiendomssektoren framstår som moden når det gjelder kompetanse på deling av data. De er samtidig tydelige på behovet for kompetansebygging på brukersiden og har satt seg som mål at kompetanse om geografisk informasjon og tilhørende løsninger skal være utbredt: +
-_[Delmål 3.5] Kompetanse om geografisk informasjon og tilhørende løsninger er utbredt_ +
-_Kunnskap om geografisk informasjon og geografiske metoder er nødvendig for full utnyttelse av potensialet og realiseringen av denne strategien_ […]_ Det skal utvikles en langsiktig tiltakspakke som bidrar til å tilføre nødvendig kompetanse om bruk og utvikling av brukerløsninger basert på geografisk informasjon – og som kan fremme innovasjon og verdiskapning i samfunnet._
+For å utnytte mulighetene må brukerne ha kunnskap om hvordan dataene kan utnyttes. Mye av innsatsen har til nå blitt rettet mot å etablere bevissthet rundt _deling_ av data. Dette må utvides til også å omfatte utvikling av kunnskap knyttet til _bruk_ av data. Samtidig bør offentlig sektor i større grad se sin rolle som konsumenter av åpne data fra det offentlige i en stadig mer datadrevet forvaltning, og bygge opp nødvendig kompetanse til å utnytte dette.
+
+Kart- og eiendomssektoren framstår som moden når det gjelder kompetanse på deling av data. De er samtidig tydelige på behovet for kompetansebygging på brukersiden og har satt seg som mål at kompetanse om geografisk informasjon og tilhørende løsninger skal være utbredt:
+
+[quote, Alt skjer et sted - Forslag til nasjonal geodatastrategi]
+[Delmål 3.5] Kompetanse om geografisk informasjon og tilhørende løsninger er utbredt
+Kunnskap om geografisk informasjon og geografiske metoder er nødvendig for full utnyttelse av potensialet og realiseringen av denne strategien_ […]_ Det skal utvikles en langsiktig tiltakspakke som bidrar til å tilføre nødvendig kompetanse om bruk og utvikling av brukerløsninger basert på geografisk informasjon – og som kan fremme innovasjon og verdiskapning i samfunnet.
 
 Også uformell kompetanseutvikling er viktig. Deler av kultursektoren har jobbet målrettet for å utvikle brukermiljø og kompetanse på brukersiden gjennom workshops, seminar og hackathons.
 
@@ -119,13 +128,13 @@ Behovet for kompetanse om deling og bruk av data vil bare øke i årene som komm
 
 Flere sektorer peker på behovet for å etablere bærekraftige infrastrukturer. Også brukerne etterlyser i økende grad forutsigbarheit og langsiktighet knyttet til tilgang til data. Løsningene som etableres for lagring og distribusjon av data bør derfor være langsiktige.
 
-Her ligger det muligheter for samarbeid på tvers, både på nasjonalt og internasjonalt nivå, og en må stille spørsmål ved om alle fagområder og sektorene har behov for egne infrastrukturer eller om etablering av felles løsninger eller komponenter er hensiktsmessig. Felles spesifikasjoner og standarder blir uansett viktig for å kunne utveksle data og metadata på tvers av sektorer, samtidig som domenespesifikke og internasjonale behov må ivaretas. Difis “https://www.difi.no/fagomrader-og-tjenester/digitalisering-og-samordning/nasjonal-arkitektur/informasjonsforvaltning[Fellesoffentlig rammeverk for informasjonsforvaltning]” er relevant her.
+Her ligger det muligheter for samarbeid på tvers, både på nasjonalt og internasjonalt nivå, og en må stille spørsmål ved om alle fagområder og sektorene har behov for egne infrastrukturer eller om etablering av felles løsninger eller komponenter er hensiktsmessig. Felles spesifikasjoner og standarder blir uansett viktig for å kunne utveksle data og metadata på tvers av sektorer, samtidig som domenespesifikke og internasjonale behov må ivaretas. Difis https://www.difi.no/fagomrader-og-tjenester/digitalisering-og-samordning/nasjonal-arkitektur/informasjonsforvaltning[Fellesoffentlig rammeverk for informasjonsforvaltning] er relevant her.
 
 https://www.geonorge.no/[Geonorge ]er eksempel på en eksisterende infrastruktur som kan være relevant for flere sektorer. Kartdata er ikke et eget område eller en egen sektor, men heller en egenskap ved dataene (de er knyttet til et sted). Deler av forskningssektoren har behov for mange av de  løsningene som utvikles og forvaltes i kart- og eiendomssektoren, og et tettere samarbeid bør vurderes nærmere.
 
 Samtidig bør etablerte domenespesifikke infrastrukturer sikres langsiktighet, enten som fellesløsninger eller som løst koblede tjenester basert på størst mulig grad av felles standarder og spesifikasjoner. For eksempel har Kulturrådet lykkes godt med å samle en rekke institusjoner rundt løsningene Norvegiana/Europeana og Kulturnav. Samtidig mangler sentrale nasjonale institusjoner innen kulturfeltet i disse løsningene.
 
-Ulike økosystemer trekker inn mer data fra forskjellige kilder, som vil føre til behov for tettere koblinger mellom infrastrukturer. Brukerne konfronteres i dag med ulike plattformer og fellesløsninger innen beslektede sektorer og fagdomener. For eksempel er det behov for gode koblinger mellom Geonorge og data.norge.no. En løsning for dette er under utvikling.
+Ulike økosystemer trekker inn mer data fra forskjellige kilder, som vil føre til behov for tettere koblinger mellom infrastrukturer. Brukerne konfronteres i dag med ulike plattformer og fellesløsninger innen beslektede sektorer og fagdomener. For eksempel er det behov for gode koblinger mellom https://www.geonorge.no/[Geonorge] og https://data.norge.no[Data.norge.no]. En løsning for dette er under utvikling.
 
 I det videre arbeidet med etablering av infrastrukturer for deling og utveksling av data og metadata bør felleskomponenter, løsninger og standarder også på tvers av sektorer etableres der det er hensiktsmessig. Fellesløsninger og teknologi som velges må sikres langsiktighet og understøtte en effektiv oppgaveløsning og åpne for nye bruksmuligheter i samfunnet.
 
@@ -200,7 +209,7 @@ Et velfungerende økosystem for data vil ifølge EU-kommisjonen ha følgende akt
 
 Norge har flere av disse funksjonene på plass, men vi kan trolig gjøre med for å sette disse bitene sammen til en helhetlig politikk.
 
-EU-kommisjonen peker i sin dataverdikjede-strategi på behovet for en markedsplass der utviklere kan dele sine vaskede og integrerte data. Data.norge.no dekker i dag behovet for å synliggjøre offentlige virksomheters åpne datasett, men det finnes ingen tilsvarende tjeneste for aktører høyere oppe i dataverdikjeden. Kundene i et marked der næringslivet tilbyr bearbeidede offentlige data kan være både private sektor og offentlig sektor selv.
+EU-kommisjonen peker i sin dataverdikjede-strategi på behovet for en markedsplass der utviklere kan dele sine vaskede og integrerte data. https://data.norge.no[Data.norge.no] dekker i dag behovet for å synliggjøre offentlige virksomheters åpne datasett, men det finnes ingen tilsvarende tjeneste for aktører høyere oppe i dataverdikjeden. Kundene i et marked der næringslivet tilbyr bearbeidede offentlige data kan være både private sektor og offentlig sektor selv.
 
 === Oppsummering
 
