@@ -42,7 +42,7 @@ Se eiendom (SEE)*
 |Vegdata m/ adresser|2013|Sosi og tabell|Ja||NK, SEE, NIB
 |N50- N5000 Kartdata Raster og vektor|2013|Sosi, Geojson
 Geo Tiff, PostGis, MrSid|Ja||NK
-|Terrengmodeller (10x10 og 50*50)|2013|USGS DEM|Ja||NK
+|Terrengmodeller (10x10 og 50x50)|2013|USGS DEM|Ja||NK
 |Stedsnavn Norge|2013|SOSI, GeoJson||Ja|NE, SEE, NIB
 |Illustrasjonskart|2013|GIF, TIFF, AI, PPT|||
 |Digital EFS|2014|PDF|||
@@ -60,7 +60,7 @@ Vegdata m/ adresser omfatter både geometri med vegnavn (Vbase) og vegrestriksjo
 Det meste av sjødata ble frigitt i april 2015, med unntak av offisielle sjøkart (POD og ENC).
 
 ==== Informasjon og tjenester mot betaling
-
+.Informasjon og tjenester mot betaling
 |===
 ||Planer om frigivelse|Fysiske filer til nedlasting med format (Selvbetjening)|Begrensninger i tillegg til betaling|Tjenester|Norgeskart (NK)
 Se eiendom (SEE)
