@@ -88,6 +88,7 @@ På kriteriene _gratis data_ og _maskinlesbare formater_ skårer de utvalgte dat
 
 Tabellen under viser noen nøkkeltall for 2015 for de mest brukte tjenestene fra etatene (basert på tall fra Google Analytics).
 
+.Nøkkeltall for 2015 for de mest brukte kulturtjenestene
 |===
 |*Tjeneste*|*Antall besøk (brukersesjoner)*|*Antall unike brukere*|*Antall sidevisninger*
 
@@ -259,8 +260,9 @@ All tekst som digitaliseres i Nasjonalbiblioteket OCR-behandles. Denne tekstgjen
 
 ==== Har tilgjengeliggjøringen gitt nye tjenester?
 
-Tilgjengeliggjøringen av åpne kulturdata har så langt gitt flere nye tjenester. Tjenestene er utviklet gjennom intern bruk av APIer (Digitalarkivet på mobil og Historisk befolkningsregister i Arkivverket), gjennom samarbeidsprosjekter som Kultur- og naturreise eller på direkte initiativ fra eksterne interessenter. De viktigste kjente brukerne, dvs. løsningene/tjenestene som bruker åpne kulturdata frermgår av tabellen nedenfor:
+Tilgjengeliggjøringen av åpne kulturdata har så langt gitt flere nye tjenester. Tjenestene er utviklet gjennom intern bruk av APIer (Digitalarkivet på mobil og Historisk befolkningsregister i Arkivverket), gjennom samarbeidsprosjekter som Kultur- og naturreise eller på direkte initiativ fra eksterne interessenter. De viktigste kjente brukerne, dvs. løsningene/tjenestene som bruker åpne kulturdata fremgår av tabellen nedenfor:
 
+.Oversikt over nye tjenester basert på åpne kulturdata
 |===
 |*Tjeneste / løsning*|*Tema*|*Utvikler*|*Data som inngår*
 
