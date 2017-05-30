@@ -1,21 +1,18 @@
 
 
-[NOTE]
-====
-
-*Om dokumentet:* +
+== Om dokumentet
 Sist endret: 30.05.2017
 
 Del 1 er skrevet av Difi ved Heather Broomfield og Øystein Åsnes. Bidragsytere: Øyvind Grinde, Livar Bergheim og Marta Kari Schawlann.
 
 link:\\#_del_2_status_for_de_fem_sektorene[Del 2: Status for de 5 sektorene], er beskrevet av ansvarlig departement for hvert område. Kontaktpersoner: +
-Kart- og eiendomsdata: Kari Strande  - Kommunal- og moderniseringsdepartementet og Tomas Martin Holtan - Kartverket +
+Kart- og eiendomsdata: Kari Strande  - Kommunal- og moderniseringsdepartementet +
 Transport: Ida Monclair - Samferdelsdepartementet +
 Statlige utgifter: Astri Tverstøl - Finansdepartementet +
 Forskning: Hanne Monclair - Kunnskapsdepartementet +
 Kultur: Bjørn Olav Vik - Kulturdepartementet +
 
-====
+== Innledning
 Det offentlige produserer store mengder data i sin saksbehandling og myndighetsutøvelse. Tilgang på data, og kunnskap om hvordan de kan brukes, er i økende grad en forutsetning for å kunne ta beslutninger, utvikle nye tjenester og å utøve et åpent og opplyst demokrati. Data blir i økende grad brukt i andre sammenhenger, til andre formål og av andre aktører enn det som var utgangspunktet da informasjonen ble skapt.
 
 Økt tilgang på offentlige data og kunnskap om hvordan de kan brukes, er viktig for å legge til rette for størst mulig verdiskapning i en stadig mer datadrevet økonomi. Regjeringen har derfor valgt ut fem sektorer der det skal lages strategier (og eventuelle handlingsplaner) for økt tilgjengeliggjøring av offentlige data. Som et ledd i dette arbeidet har Difi fått i oppdrag av Kommunal- og moderniseringsdepartementet (KMD) å publisere et kunnskapsgrunnlag som skal gi oversikt over nå-situasjonen og en beskrivelse av kjente utfordringer for områdene _statlige utgifter, transport, kart- og eiendomsdata, kultur og forskning_. Formålet er å bidra til å identifisere mulige tiltak i form av prioriteringer, beslutninger og avklaringer for å nå målet om økt tilgang på data fra de fem sektorene.
