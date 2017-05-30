@@ -3,14 +3,22 @@
 [NOTE]
 ====
 
-Del 1 er skrevet av Difi ved Heather Broomfield og Øystein Åsnes. Bidragsytere har vært Øyvind Grinde, Livar Bergheim og Marta Kari Schawlann.
+*Om dokumentet:* +
+Sist endret: 30.05.2017
 
-Nåsituasjonen i link:\\#_del_2_status_for_de_fem_sektorene[Del 2: Status for de 5 sektorene], er beskrevet av ansvarlig departement. Kontaktpersoner er Kari Strande - Kommunal- og moderniseringsdepartementet (kart- og eieendomsdata), Ida Monclair - Samferdelsdepartementet (transport), Astri Tverstøl - Finansdepartementet (stalige utgifter), Hanne Monclair - Kunnskapsdepartementet (forskning) og Bjørn Olav Vik - Kulturdepartementet (kultur)
+Del 1 er skrevet av Difi ved Heather Broomfield og Øystein Åsnes. Bidragsytere: Øyvind Grinde, Livar Bergheim og Marta Kari Schawlann.
+
+link:\\#_del_2_status_for_de_fem_sektorene[Del 2: Status for de 5 sektorene], er beskrevet av ansvarlig departement for hvert område. Kontaktpersoner: +
+Kart- og eiendomsdata: Kari Strande  - Kommunal- og moderniseringsdepartementet og Tomas Martin Holtan - Kartverket +
+Transport: Ida Monclair - Samferdelsdepartementet +
+Statlige utgifter: Astri Tverstøl - Finansdepartementet +
+Forskning: Hanne Monclair - Kunnskapsdepartementet +
+Kultur: Bjørn Olav Vik - Kulturdepartementet +
 
 ====
 Det offentlige produserer store mengder data i sin saksbehandling og myndighetsutøvelse. Tilgang på data, og kunnskap om hvordan de kan brukes, er i økende grad en forutsetning for å kunne ta beslutninger, utvikle nye tjenester og å utøve et åpent og opplyst demokrati. Data blir i økende grad brukt i andre sammenhenger, til andre formål og av andre aktører enn det som var utgangspunktet da informasjonen ble skapt.
 
-Økt tilgang på offentlige data og kunnskap om hvordan de kan brukes, er viktig for å legge til rette for størst mulig verdiskapning i en stadig mer datadrevet økonomi. Regjeringen har derfor valgt ut fem sektorer der det skal lages strategier (og eventuelle handlingsplaner) for økt økt tilgjengeliggjøring av offentlige data. Som et ledd i dette arbeidet har Difi fått i oppdrag av KMD å publisere et kunnskapsgrunnlag som skal gi oversikt over nå-situasjonen og en beskrivelse av kjente utfordringer for områdene _statlige utgifter, transport, kart- og eiendomsdata, kultur _og _forskning_. Formålet er å bidra til å identifisere mulige tiltak i form av prioriteringer, beslutninger og avklaringer for å nå målet om økt tilgang på data fra de fem sektorene.
+Økt tilgang på offentlige data og kunnskap om hvordan de kan brukes, er viktig for å legge til rette for størst mulig verdiskapning i en stadig mer datadrevet økonomi. Regjeringen har derfor valgt ut fem sektorer der det skal lages strategier (og eventuelle handlingsplaner) for økt tilgjengeliggjøring av offentlige data. Som et ledd i dette arbeidet har Difi fått i oppdrag av Kommunal- og moderniseringsdepartementet (KMD) å publisere et kunnskapsgrunnlag som skal gi oversikt over nå-situasjonen og en beskrivelse av kjente utfordringer for områdene _statlige utgifter, transport, kart- og eiendomsdata, kultur og forskning_. Formålet er å bidra til å identifisere mulige tiltak i form av prioriteringer, beslutninger og avklaringer for å nå målet om økt tilgang på data fra de fem sektorene.
 
 Dokumentet er basert på innspill fra sektorene, kommunikasjon med brukere, internasjonale indekser, ulike strategier og rapporter samt Difis fagkompetanse. Del 1 begynner med en oppsummering av Norges status internasjonalt. Dette blir etterfulgt av en status for åpne data i Norge og deretter en beskrivelse av felles utfordringer og suksessfaktorer som vi har identifisert i prosessen. De sektorvise beskrivelsene av nå-situasjonen utgjør del 2.
 
@@ -33,27 +41,26 @@ I tillegg har Frankrike vedtatt en egen lov om åpen tilgang til forskningsresul
 
 Data om *offentlige utgifter* er prioriterte datasett i internasjonale indekser og retningslinjer knyttet til åpne data, som for eksempel EUs https://ec.europa.eu/digital-single-market/en/news/commission-notice-guidelines-recommended-standard-licences-datasets-and-charging-re-use[Guidelines on recommended standard licence, datasets and charging for the re-use of documents] og http://opendatacharter.net/[The International Open Data Charter].
 
-Data om offentlige utgifter er også sentrale indikatorer både i Global Open Data Index og Open Data Barometer. Norge skårer henholdsvis 10 og 5 prosent (av 100 mulige) på disse indeksene på området offentlige utgifter. Begge indeksene har tilgang til utgiftsdata på transaksjonsnivå som kriterium.  +
+Data om offentlige utgifter er også sentrale indikatorer både i Global Open Data Index og Open Data Barometer. Norge skårer henholdsvis 10 og 5 prosent (av 100 mulige) på disse indeksene på området. Begge indeksene har tilgang til utgiftsdata på transaksjonsnivå som kriterium.
+
 Det er mye aktivitet i Europa knyttet til transportsektoren og høy etterspørsel etter *transportdata* internasjonalt, spesielt sanntidsdata. The Open Data Barometer er den eneste indeksen som har transportdata som måleindikator, og Norge oppnår her en score på 80%  (av 100 mulige) for tilgang til rutetabeller for kollektivtransport.
 
 == Status for åpne data i Norge
-
 Tjenesten https://data.norge.no[Data.norge.no], med en nasjonal katalog over åpne data fra det offentlige, ble lansert i 2011. Pr. 31.12.16 er det rundt 6700 individuelle datasett fra 83 statlige og kommunale virksomheter i katalogen. En stor bidragsyter er SSB sin statistikkbank med over 5000 tabeller.
 
-Per i dag er det ingen lovpålagt plikt til å legge data ut for viderebruk. Offentleglova har imidlertid bestemmelser om hvordan offentlige data for viderebruk skal tilgjengeliggjøres.  +
-**
-**I 2011 ga regjeringen en fellesføring til alle statlige virksomheter om å åpne opp data, med fokus på datasett som var enkle å gjøre tilgjengelige. Siden den gang har føringer blitt gitt i https://www.regjeringen.no/no/dokumenter/digitaliseringsrundskrivet/id2522147/[Digitaliseringsrundskrivet].
+Per i dag er det ingen lovpålagt plikt til å legge data ut for viderebruk. Offentleglova har imidlertid bestemmelser om hvordan offentlige data for viderebruk skal tilgjengeliggjøres.
 
-Digitaliseringsrundskrivet sier at virksomheten skal “gjøre egnet informasjon tilgjengelig i maskinlesbare formater, fortrinnsvis gjennom API'er” og at det skal legges til rette for dette ved etablering av nye eller oppgradering av eksisterende fagsystemet eller digitale tjenester.
+I 2011 ga regjeringen en fellesføring til alle statlige virksomheter om å åpne opp data, med fokus på datasett som var enkle å gjøre tilgjengelige. Siden den gang har føringer blitt gitt i https://www.regjeringen.no/no/dokumenter/digitaliseringsrundskrivet/id2522147/[Digitaliseringsrundskrivet]. Digitaliseringsrundskrivet sier at virksomheten skal “gjøre egnet informasjon tilgjengelig i maskinlesbare formater, fortrinnsvis gjennom API'er” og at det skal legges til rette for dette ved etablering av nye eller oppgradering av eksisterende fagsystemet eller digitale tjenester.
 
-I tillegg er det etablert noen virkemidler for å fremme tilgang til og viderebruk av offentlige data:
+I tillegg er det etablert noen virkemidler for å fremme tilgang til (og viderebruk av) offentlige data:
 
- * Tjenesten «https://data.norge.no[Data.norge.no]»,  som er en nasjonal katalog over datasett som er tilgjengelig for viderebruk.
- * Tjeneste for distribusjon av data («Datahotellet»).
- * Retningslinjer ved viderebruk av offentlige data.
- * Veileder i tilgjengeliggjøring av åpne data
- * Utvikling av en norsk lisens for offentlige data (NLOD).
+ * Tjenesten https://data.norge.no[Data.norge.no],  som er en nasjonal katalog over datasett som er tilgjengelig for viderebruk.
+ * Tjeneste for distribusjon av data (https://data.norge.no/datahotellet[Datahotellet]).
+ * https://www.regjeringen.no/no/id2536870/[Retningslinjer ved viderebruk av offentlige data.]
+ * https://data.norge.no/document/del-og-skap-verdier-veileder-i-tilgjengeliggj%C3%B8ring-av-offentlige-data[Veileder i tilgjengeliggjøring av åpne data]
+ * Utvikling av en https://data.norge.no/nlod/no[norsk lisens for offentlige data (NLOD)]
  * Ulike konkurranser, hackathons, der offentlige data er stilt til rådighet for aktuelle utviklingsmiljø.
+
 == Felles utfordringer og suksessfaktorer
 
 Noen utfordringer og kritiske suksessfaktorer som beskrives av sektorene, er (eller burde være) felles for alle, og felles tiltak kan være hensiktsmessig. En felles forståelse av disse faktorene er uansett viktig. På grunnlag av sektorenes egne beskrivelser av nå-situasjonen peker vi her på noen problemstillinger vi mener er sentrale.
@@ -94,7 +101,7 @@ Det er nødvendig å “pleie” økosystemet for å maksimere verdien av offent
 
 === Uklarheter rundt anledning til å dele data
 
-En annen utfordring for flere er problemstillinger knyttet til eierskap til data. Når data produseres av flere aktører (ved for eksempel “nettdugnad”, eller når data samles i sentrale løsninger) er det ofte uklarheter rundt hvem som kan dele data eller hvilke aktører det må avklares med. Ettersom det er forskjellige praksis og uklarheter, oppstår det en del paradokser rundt distribusjon av data fra sentrale løsninger. Her er noen eksempler:*
+En annen utfordring for flere er problemstillinger knyttet til eierskap til data. Når data produseres av flere aktører (ved for eksempel “nettdugnad”, eller når data samles i sentrale løsninger) er det ofte uklarheter rundt hvem som kan dele data eller hvilke aktører det må avklares med. Ettersom det er forskjellige praksis og uklarheter, oppstår det en del paradokser rundt distribusjon av data fra sentrale løsninger. Her er noen eksempler:*)
 
  * KS leverer ikke ut data fra sitt PAI-register. KS er en interesseorganisasjon og dermed kan heller ikke Offentleglova anvendes for å hente ut data sentralt, selv om akkurat de samme opplysningene er underlagt Offentleglova i hver enkelt kommune. Man må altså be om innsyn fra hver enkelt kommune, istedenfor å få det gjennom et sentralt register. Dette er en lite hensiktsmessig bruk av offentlige ressurser.
 
@@ -106,7 +113,7 @@ En annen utfordring for flere er problemstillinger knyttet til eierskap til data
 
  * Ved privatisering av funksjoner og overføring av forvaltningsansvar til stiftelser og virksomheter som er unntatt offentlighet, er det viktig at behovet for tilgang til data ivaretas. Eksempler på data som vi regner som offentlige, men som juridisk sett er/blir unntatt offentlighet som følge av privatisering eller overføring av forvaltningsansvar, er flere.
 
-* Merk at ikke alle eksemplene er relevant for de fem områdene som er omtalt i Digital Agenda. De illustrerer likefullt problemstillingen på en god måte.
+*) Merk at ikke alle eksemplene er relevant for de fem områdene https://www.regjeringen.no/no/dokumenter/meld.-st.-27-20152016/id2483795/sec3#KAP14[som er omtalt i Digital Agenda] (Kap 14.2.2). De illustrerer likefullt problemstillingen på en god måte.
 
 === Behov for kompetanse om deling og bruk av data
 
@@ -132,7 +139,7 @@ Her ligger det muligheter for samarbeid på tvers, både på nasjonalt og intern
 
 https://www.geonorge.no/[Geonorge ]er eksempel på en eksisterende infrastruktur som kan være relevant for flere sektorer. Kartdata er ikke et eget område eller en egen sektor, men heller en egenskap ved dataene (de er knyttet til et sted). Deler av forskningssektoren har behov for mange av de  løsningene som utvikles og forvaltes i kart- og eiendomssektoren, og et tettere samarbeid bør vurderes nærmere.
 
-Samtidig bør etablerte domenespesifikke infrastrukturer sikres langsiktighet, enten som fellesløsninger eller som løst koblede tjenester basert på størst mulig grad av felles standarder og spesifikasjoner. For eksempel har Kulturrådet lykkes godt med å samle en rekke institusjoner rundt løsningene Norvegiana/Europeana og Kulturnav. Samtidig mangler sentrale nasjonale institusjoner innen kulturfeltet i disse løsningene.
+Samtidig bør etablerte domenespesifikke infrastrukturer sikres langsiktighet, enten som fellesløsninger eller som løst koblede tjenester basert på størst mulig grad av felles standarder og spesifikasjoner. For eksempel har Kulturrådet lykkes godt med å samle en rekke institusjoner rundt løsningene http://norvegiana.no/[Norvegiana] / http://www.europeana.eu/portal/no[Europeana] og http://kulturnav.org/[Kulturnav]. Samtidig mangler sentrale nasjonale institusjoner innen kulturfeltet i disse løsningene.
 
 Ulike økosystemer trekker inn mer data fra forskjellige kilder, som vil føre til behov for tettere koblinger mellom infrastrukturer. Brukerne konfronteres i dag med ulike plattformer og fellesløsninger innen beslektede sektorer og fagdomener. For eksempel er det behov for gode koblinger mellom https://www.geonorge.no/[Geonorge] og https://data.norge.no[Data.norge.no]. En løsning for dette er under utvikling.
 
