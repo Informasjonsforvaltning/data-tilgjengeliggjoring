@@ -59,7 +59,7 @@ Shape|+++<u>+++Ja+++</u>+++||NK
 Det meste av sjødata ble frigitt i april 2015, med unntak av offisielle sjøkart (POD og ENC).
 
 ==== Informasjon og tjenester mot betaling
-.Informasjon og tjenester mot betaling
+.Informasjon og tjenester mot betaling - Kart- og eiendomsdata
 |===
 ||*Planer om frigivelse* |*Fysiske filer til nedlasting med format (Selvbetjening)* |*Begrensninger i tillegg til betaling* |*Tjenester* |*Norgeskart (NK) Se eiendom (SEE)*
 |||Geotiff, POD (PDF)||Wms (gratis)|+++<u>+++NK+++</u>+++

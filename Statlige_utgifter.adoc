@@ -35,9 +35,9 @@ Representanter fra media har gitt klart uttrykk for at rådata (big data) bør v
 KD innhenter tallmateriale fra samtlige nettobudsjetterte virksomheter i sektoren og aggregerer og avstemmer dette internt. KD nytter http://dbh.nsd.uib.no/statistikk/kategori_okonomi.action;jsessionid=44600F25A5FCB2ED3873949CADB3AC64[DBH-databasen] som hjelpemiddel i forbindelse med aggregeringen.
 
 ===  Utviklingstrekk med hensyn til tilgjengeliggjøring
-
+.Utviklingstrekk med hensyn til tilgjengeliggjøring - statlige utgifter
 |===
-|_Tid_|_Tiltak_
+|*Tid* |*Tiltak*
 
 |2001|Nasjonalbudsjettet 2002 ble lagt frem med eget (digitalt) excel-vedlegg for tallene bak hvert diagram i dokumentet, slik at brukerne selv kunne laste ned tallsettene.
 |2010|Statsbudsjettet 2011 blir lagt frem på nettet med egen tabellgenerator som gjør uttrekk i excel og .csv for alle tabellene som er brukt. Senere blir dette omgjort til å være kun .csv-filer.
