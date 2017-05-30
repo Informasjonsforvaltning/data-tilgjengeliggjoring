@@ -51,40 +51,32 @@ Geo Tiff, PostGis, MrSid|Ja||NK
 |Maritime geodata|2015|Sosi
 S57
 Shape|+++<u>+++Ja+++</u>+++||NK
-|Digital terrengmodell Sjø|2015|xyz|+++<u>+++Ja+++</u>+++||
+|Digital terrengmodell Sjø*)|2015|xyz|+++<u>+++Ja+++</u>+++||
 |Adresser fra Matrikkel|2015|Csv, Sosi||+++<u>+++WfsWs+++</u>+++|NK, SEE, NIB
 |HREF|2015|Xyz|||
 |===
-*innenfor 12 nautiske mil må man søke forsvaret om tilgang og betale en uttakskost.  +
-Vegdata m/ adresser omfatter både geometri med vegnavn (Vbase) og vegrestriksjoner + adresser (ELVEG) og forvaltes i samarbeid med Vegvesenet.  +
+*) innenfor 12 nautiske mil må man søke forsvaret om tilgang og betale en uttakskost. Vegdata m/ adresser omfatter både geometri med vegnavn (Vbase) og vegrestriksjoner + adresser (ELVEG) og forvaltes i samarbeid med Vegvesenet.  +
 Det meste av sjødata ble frigitt i april 2015, med unntak av offisielle sjøkart (POD og ENC).
 
 ==== Informasjon og tjenester mot betaling
 .Informasjon og tjenester mot betaling
 |===
-||Planer om frigivelse|Fysiske filer til nedlasting med format (Selvbetjening)|Begrensninger i tillegg til betaling|Tjenester|Norgeskart (NK)
-Se eiendom (SEE)
-
-||||||
+||*Planer om frigivelse* |*Fysiske filer til nedlasting med format (Selvbetjening)* |*Begrensninger i tillegg til betaling* |*Tjenester* |*Norgeskart (NK) Se eiendom (SEE)*
 |||Geotiff, POD (PDF)||Wms (gratis)|+++<u>+++NK+++</u>+++
-||||||
-|*Posisjontjenester*|||||
+|*Posisjontjenester:*|||||
 |Cpos||||RTCM og CMR|
 |Dpos|I løpet av 2017, begrenset til, i første omgang, noen utvalgte for å teste infrastruktur.|||RTCM og CMR|
 |Etpos||xyz|||
 |Fra PGS||||RTCM og CMR|
-|*Diverse*|||||
+|*Diverse:*|||||
 |Flybilder (før de blir ortofoto)|Det betales uttakskost i dag||||
-||||||
-|*Grunnboken*|||||
+|*Grunnboken:*|||||
 |Fast eiendom|||Ja|wfs, ws|SEE
 |Borett|||Ja|wfs, ws|SEE
-||||||
-|*Matrikkel*|||||
+|*Matrikkel:*|||||
 |Data uten personopplysninger||csv||Wms, wfs, ws|SEE
 |Utlevering etter søknad||csv|Ja|wfs, ws|
-||||||
-|*Detaljerte kartdata*|||||
+|*Detaljerte kartdata:*|||||
 |FKB alle temagrupper||SOSI|Ja|Wms|NK, SEE
 |||SOSI, TIFF|Ja|wms, wfs, ws|NK
 |||GEO TIFF|Ja|wms|NIB
@@ -92,26 +84,20 @@ Se eiendom (SEE)
 |===
 
 ==== Sjøinformasjon
-
-ENC (Electronic Navigational Charts) videreformidles via Primar (regionalt koordineringssenter for offisielle elektroniske sjøkart). Øvrig digital informasjon videreformidles via virksomheter med avtale eller på forespørsel direkte fra Kartverkets sjødivisjon. Tilgang til detaljerte maritime geodata er begrenset med hjemmel i lov om forsvarshemmeligheter (innen 12 nautiske mil og detaljnivå 1*1 meter).
+ENC (Electronic Navigational Charts) videreformidles via Primar (regionalt koordineringssenter for offisielle elektroniske sjøkart). Øvrig digital informasjon videreformidles via virksomheter med avtale eller på forespørsel direkte fra Kartverkets sjødivisjon. Tilgang til detaljerte maritime geodata er begrenset med hjemmel i lov om forsvarshemmeligheter (innen 12 nautiske mil og detaljnivå 1x1 meter).
 
 ==== Posisjonstjenester
-
-Tilbys enten som data fra det permanente geodetiske nettverket (PGS) i sanntid til virksomheter med avtale eller som korreksjonsdata rett fra Kartverket til sluttbrukerenheten. Signalene formidles på RTCM og CMR+ format via GSM (Mobil) eller internett. Brukere kan inngå abonnementsavtale med Kartverket eller via virksomheter som har avtale med Kartverket__.__ +
-CPOS gir cm nøyaktighet mens DPOS gir brukeren dm nøyaktighet. ETPOS (ettertidsdata) leveres som filer på forespørsel, mens HREF (Høydereferansemodell) leveres på forespørsel eller som en del av abonnementet.
+Tilbys enten som data fra det permanente geodetiske nettverket (PGS) i sanntid til virksomheter med avtale eller som korreksjonsdata rett fra Kartverket til sluttbrukerenheten. Signalene formidles på RTCM og CMR+ format via GSM (Mobil) eller internett. Brukere kan inngå abonnementsavtale med Kartverket eller via virksomheter som har avtale med Kartverket. CPOS gir cm nøyaktighet mens DPOS gir brukeren dm nøyaktighet. ETPOS (ettertidsdata) leveres som filer på forespørsel, mens HREF (Høydereferansemodell) leveres på forespørsel eller som en del av abonnementet.
 
 ==== Historiske kart og flybilder
-
-Det er kun en liten andel av flybildene som er digitale, de øvrige digitaliseres og formidles på forespørsel direkte fra Landdivisjonen. (Uttakskost)
+Det er kun en liten andel av flybildene som er digitale, de øvrige digitaliseres og formidles på forespørsel direkte fra Landdivisjonen (uttakskost).
 
 ==== Eiendomsinformasjon
-
 Eiendomsinformasjon utleveres i henhold til tinglysingsloven §§ 12b og 38 og matrikkellova §§ 29, 30 og 32. Den viktigste formelle begrensningen for tilgang og viderebruk er knyttet til hensynet til personvernet.
 
 Opplysninger fra grunnboken og matrikkelen formidles via virksomheter med avtale, eller til offentlig organ som benytter opplysninger som ledd i sin myndighetsutøvelse. Virksomheter betaler enten fastpris pr år, uten rapportering eller benytter tjenestene med pris pr oppslag. Publikum kan gjøre oppslag i matrikkel og grunnbok via http://www.seeiendom.no[www.Seeiendom.no]. Det gjelder både innsyn i eiendomsinformasjon og informasjon om heftelser på en eiendom.
 
 ==== Detaljerte kartdata land
-
 Detaljerte kartdata for land er etablert ved hjelp av samfinansiering gjennom GEOVEKST-samarbeidet eller av storkommunene (Oslo, Bærum, Stavanger, Bergen Trondheim). Kartverket videreformidler dataene ved hjelp av virksomheter med avtale, kommunene formidler i tillegg dette selv. Rettigheter til etablerte data, og fremtidig etablering og ajourføring kan bli en utfordring dersom en ønsker å gjøre data billigere eller helt gratis.
 
-For publikum vises dataene gratis i Norgeskart.no og som egne WMS-tjenester.
+For publikum vises dataene gratis i http://norgeskart.no[Norgeskart.no] og som egne WMS-tjenester.
