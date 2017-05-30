@@ -33,10 +33,10 @@ For informasjon som leveres med betalingsbetingelser avtales i utgangspunktet be
 For noen informasjonstyper vil hensynet til nasjonal sikkerhet, for eksempel detaljerte dybdedata i kystnære områder (innenfor 12 nautiske mil), eller hensynet til personvernet, for eksempel deler av Matrikkelen, begrense adgangen til bruk og viderebruk.
 
 ==== Gratis og fri viderebruk (CCBY 4.0)
-
+.Gratis og fri viderebruk av kart- og eiendomsdata
 |===
-|Type|Frigitt|Fysiske filer til nedlasting med format (Selvbetjening)|wms|wfs, ws|Norgeskart (NK)
-Se eiendom (SEE)
+|*Type* |*Frigitt* |*Fysiske filer til nedlasting med format (selvbetjening)* |*wms* |*wfs, ws* |*Norgeskart (NK)
+Se eiendom (SEE)*
 
 |Administrative grenser|2013|Sosi, Geojson|Ja||NK, SEE, NIB
 |Vegdata m/ adresser|2013|Sosi og tabell|Ja||NK, SEE, NIB
