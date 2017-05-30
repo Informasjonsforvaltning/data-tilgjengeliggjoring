@@ -6,10 +6,11 @@ I Meld. St. 27 (2015-2016) "Digital agenda for Norge – IKT for en enklere hver
 [quote]
 Data fra denne sektoren er verdifulle for kulturbaserte næringer. Denne typen data vil være lette å formidle og ha bred appell til publikum. Data herfra vil være lett å integrere med andre typer offentlige og private data. Samtidig må man ta hensyn til utfordringer knyttet til tredjeparts opphavsrettigheter. Åpne data om ordninger på kulturområdet vil kunne bidra til en mer transparent kulturforvaltning.
 
-Under Kulturdepartementet er det særlig Nasjonalbiblioteket, Arkivverket og Norsk kulturråd som har store mengder kulturdata. Strategien har derfor lagt hovedvekt på disse tre etatenes virksomhet.
+Under Kulturdepartementet er det særlig Nasjonalbiblioteket, Arkivverket og Norsk kulturråd som har store mengder kulturdata. Strategien (som er under arbeid red. anm.) har derfor lagt hovedvekt på disse tre etatenes virksomhet.
 
 Samtidig er det viktig å påpeke at kulturdata og relaterte data finnes i en rekke andre statlige etater og offentlig finansierte institusjoner, både under Kulturdepartementet og andre departementer og forvaltningsnivåer. Det gjelder for eksempel Den Norske Kirke, Språkrådet og NRK, Den norske opera og diverse teatre og konsertarenaene. Som eksempler på kulturdata på andre forvaltningsområder og -nivåer kan nevnes:
 
+.Eksempler på kulturdata på andre forvaltningsområder
 |===
 |*Type data*|*Institusjon*|*Ansvarlig departement*
 
@@ -53,15 +54,14 @@ Klarerings- og vederlagsordninger kan gjøre dette landskapet lettere å manøvr
 Løsningen per i dag er å skille innholdsdata (digitale objekter) og metadata. Både Arkivverket, Nasjonalbiblioteket og museene publiserer sine metadata mer eller mindre åpent, mens det legges en lisens på det digitale objektet, f.eks. et fotografi (bildefil), en skannet bokside eller et dokument. Det er derimot ingen tradisjon for å markere metadataene med åpne lisenser. I Norge kan det virke overflødig, men i internasjonale sammenhenger kan det være både fordelaktig og til dels nødvendig.
 
 ==== Personvern
-
 Personvernhensyn kan begrense tilgjengeliggjøringen av kulturdata og adgangen til å publisere personbilder og film for viderebruk. For Arkivverket vil personvernet legge til dels store begrensninger for hvilke datasett som kan publiseres som åpne data.
 
 === Status for tilgjengeliggjøring
+Regjeringen har utarbeidet https://www.regjeringen.no/no/dokumenter/retningslinjer-ved-tilgjengeliggjoring-av-offentlige-data/id2536870/[retningslinjer ved tilgjengeliggjøring av offentlige data]. Disse retningslinjene er et godt utgangspunkt for å vurdere tilgjengeligheten til åpne data.
 
-Difi har utarbeidet retningslinjer for tilgjengeliggjøring av offentlige data. Disse retningslinjene er et godt utgangspunkt for å vurdere tilgjengeligheten til åpne data.
+Utvalgte datasett innenfor kultursektoren er i tabellen nedenfor vurdert opp mot retningslinjenes 15 kriterier. Datasettene har fått en karakter for hvert av kriteriene. Karakterene 0 og 1 er markert med rødt for å synliggjøre nødvendige forbedringer. Vi har benyttet følgende skala i vurderingen: 0: Følger ikke kriteriet, 1: Følger kriteriet i svært liten grad, 2: Følger kriteriet i noen grad, 3: Følger kriteriet i svært stor grad.
 
-Utvalgte datasett innenfor kultursektoren er i tabellen nedenfor vurdert opp mot Difis 15 kriterier. Datasettene har fått en karakter for hvert av kriteriene. Karakterene 0 og 1 er markert med rødt for å synliggjøre nødvendige forbedringer. Vi har benyttet følgende skala i vurderingen: 0: Følger ikke kriteriet, 1: Følger kriteriet i svært liten grad, 2: Følger kriteriet i noen grad, 3: Følger kriteriet i svært stor grad.
-
+.Vurdering av kulturdata opp mot gjeldende retningslinjer
 |===
 |Kriterier|N-grammer fra NBdigital|NBdigital søkeAPI|Boklistene|Folketellingen for 1910 (Digitalarkivet), søkeAPI|Katalogdata fra ASTA|DigitaltMuseum|Norvegiana
 
@@ -84,7 +84,7 @@ Utvalgte datasett innenfor kultursektoren er i tabellen nedenfor vurdert opp mot
 |Totalsum|33|21|21|34|29|27|31
 |===
 
-På kriteriene_ gratis data _og_ maskinlesbare formater_ skårer de utvalgte datasettene høyt, mens på kriteriene_ åpne standardlisenser- som rammeverk_ og _åpne standardlisenser i faktisk bruk_ er det mer ujevnt mellom datasettene. For de øvrige kriteriene gis det jevnt over lavere skår. Selv om tabellen viser svakheter og forbedringspotensial, viser samtidig aktiviteten at det finnes erfaringer, kompetanse og infrastruktur det kan bygges videre på.
+På kriteriene _gratis data_ og _maskinlesbare formater_ skårer de utvalgte datasettene høyt, mens på kriteriene _åpne standardlisenser- som rammeverk_ og _åpne standardlisenser i faktisk bruk_ er det mer ujevnt mellom datasettene. For de øvrige kriteriene gis det jevnt over lavere skår. Selv om tabellen viser svakheter og forbedringspotensial, viser samtidig aktiviteten at det finnes erfaringer, kompetanse og infrastruktur det kan bygges videre på.
 
 Tabellen under viser noen nøkkeltall for 2015 for de mest brukte tjenestene fra etatene (basert på tall fra Google Analytics).
 
@@ -98,9 +98,9 @@ Tabellen under viser noen nøkkeltall for 2015 for de mest brukte tjenestene fra
 |===
 ==== Arkivverket
 
-Folketellingen for 1910 er åpent tilgjengelig med et API dokumentert på data.norge.no. I tillegg er emigrantprotokollene i Digitalarkivet og kjøretøyregistret Autosys 1980-90 i ferd med å åpnes som «linked open data» (LOD). Dataene og nytt API vil bli dokumentert på data.norge.no. Videre er katalogdata fra Asta (data publisert i Arkivportalen) tilgjengelige via Norvegianas API.
+Folketellingen for 1910 er åpent tilgjengelig med et API dokumentert på data.norge.no. I tillegg er emigrantprotokollene i Digitalarkivet og kjøretøyregistret Autosys 1980-90 i ferd med å åpnes som «linked open data» (LOD). Dataene og nytt API vil bli dokumentert på data.norge.no. Videre er katalogdata fra Asta (data publisert i http://arkivportalen.no/side/forside[Arkivportalen]) tilgjengelige via https://data.norge.no/data/norsk-kulturr%C3%A5d/norvegiana-api[Norvegianas API].
 
-_Digitalarkivet_ er Arkivverkets kildenettsted – en tjeneste primært for tradisjonell tilgjengeliggjøring av innhold. De mest populære kildene er kirkebøker, folketellinger og panteregistre. Kildene representeres som transkriberte lister eller skannede sider/dokumenter som bildefiler/pdf-filer, og er med få unntak ikke å anse som åpne data. Det er store mengder data i Digitalarkivet, deriblant over 30 mill. personposter, nærmere 1.3 mill. bosteds- og eiendomsposter og skannede versjoner av ca. 50 000 kilder, til sammen ca. 26 millioner bilder av dokumenter/sider. Dataene er tilgjengelige for publikum gjennom enkle eller avanserte person- eller eiendomssøk, og egne navigerings- og blatjenester for ulike kildekategorier. PDF-filer kan hentes fram og lastes ned fra Digitalarkivets nettsider.
+http://arkivverket.no/Digitalarkivet[Digitalarkivet] er Arkivverkets kildenettsted – en tjeneste primært for tradisjonell tilgjengeliggjøring av innhold. De mest populære kildene er kirkebøker, folketellinger og panteregistre. Kildene representeres som transkriberte lister eller skannede sider/dokumenter som bildefiler/pdf-filer, og er med få unntak ikke å anse som åpne data. Det er store mengder data i Digitalarkivet, deriblant over 30 mill. personposter, nærmere 1.3 mill. bosteds- og eiendomsposter og skannede versjoner av ca. 50 000 kilder, til sammen ca. 26 millioner bilder av dokumenter/sider. Dataene er tilgjengelige for publikum gjennom enkle eller avanserte person- eller eiendomssøk, og egne navigerings- og blatjenester for ulike kildekategorier. PDF-filer kan hentes fram og lastes ned fra Digitalarkivets nettsider.
 
 Dette illustrerer noe av potensialet ved åpning av data som allerede er tilgjengeliggjort. Brukerne av Digitalarkivet er i hovedsak privatpersoner som slektsgranskere, lokalhistorikere, grunneiere og det allmenne publikum. Digitalarkivet åpnes etter planen for bidrag fra hele arkivsektoren i løpet av kort tid, og vil øke både i innhold og bruk.
 
@@ -108,7 +108,7 @@ Dette illustrerer noe av potensialet ved åpning av data som allerede er tilgjen
 
 Kulturrådet forvalter ikke egne samlingsdata, men har siden 1990-tallet (som Norsk museumsutvikling og senere ABM-utvikling) hatt et utviklings- og tilretteleggingsansvar for museene. Dette omfatter også museenes arbeid med digitalisering og publisering, bl.a. gjennom støtte til utviklingen av digitale verktøy og infrastruktur, og gjennom informasjon og holdningsskapende arbeid knyttet til åpenhet og deling. Det er brukt betydelige ressurser i museene til digitalisering og tilgjengeliggjøring de siste årene, og mye innhold er publisert på nett. Likevel gjenstår mye arbeid på veien til representative og åpne museumsdata.
 
-Digitalisert og publisert i museene per materialtype (alle tall i mill. per 1.1.2015):
+.Digitalisert og publisert i museene per materialtype (alle tall i mill. per 1.1.2015)
 
 |===
 |*Materialtyper*|*Antall*|*Digitalisert*|*Publisert med bilde*
@@ -123,9 +123,9 @@ Digitalisert og publisert i museene per materialtype (alle tall i mill. per 1.1.
 
 Samlet sett er ca. 16 pst. av museenes samlinger tilfredsstillende publisert på nett, jf. kriteriene i museumsstatistikken. Dette innebærer ikke publisering med åpne lisenser.
 
-De viktigste digitale tjenestene som publiserer og tilgjengeliggjør museumsdata er DigitaltMuseum.no og universitetsmuseenes samlingsportaler UNIMUS.no.
+De viktigste digitale tjenestene som publiserer og tilgjengeliggjør museumsdata er DigitaltMuseum.no og universitetsmuseenes samlingsportaler http://unimus.no[UNIMUS.no].
 
-DigitaltMuseum er publikums inngang til digitaliserte museumssamlinger fra museene som sorterer under Kulturdepartementet. DigitaltMuseum inneholder både kunst- og kulturhistoriske data. Noen nøkkeltall for DigitaltMuseum per oktober 2016:
+https://digitaltmuseum.no/[DigitaltMuseum] er publikums inngang til digitaliserte museumssamlinger fra museene som sorterer under Kulturdepartementet. DigitaltMuseum inneholder både kunst- og kulturhistoriske data. Noen nøkkeltall for DigitaltMuseum per oktober 2016:
 
  * 1,2 mill foto
  * 0,6 mill gjenstander
@@ -182,7 +182,7 @@ Data i Norvegiana er også tilgjengelige i Europeana. Datasettene er dokumentert
 
 ==== Nasjonalbiblioteket
 
-Nasjonalbibliotekets nettbibliotek (tidligere NBdigital) er inngangen til Nasjonalbibliotekets digitale samlingsdata. Her finner brukeren visningen av digitale objekter i alle medietyper. De tilhørende metadataene er tilgjengelige via Nasjonalbibliotekets søketjeneste eller søk i Oria. http://bit.ly/2dCQDRK[Språkbanken] har en egen ressurskatalog med åpne datasett der metadata om språkressurser og selve datasettene er tilgjengelige.
+http://www.nb.no/[Nasjonalbibliotekets nettbibliotek] (tidligere NBdigital) er inngangen til Nasjonalbibliotekets digitale samlingsdata. Her finner brukeren visningen av digitale objekter i alle medietyper. De tilhørende metadataene er tilgjengelige via Nasjonalbibliotekets søketjeneste eller søk i http://oria.no/[Oria]. http://bit.ly/2dCQDRK[Språkbanken] har en egen ressurskatalog med åpne datasett der metadata om språkressurser og selve datasettene er tilgjengelige.
      
 Samlingsdata som ikke er opphavsrettslig beskyttet, kan fritt lastes ned av brukerne. Dette gjelder aviser, bøker, tidsskrift, foto, musikkmanuskripter og privatarkivmateriale. Per i dag er omlag 450 000 norske bøker digitalisert. 30 000 av dem er opphavsrettslig falt i det fri og er nedlastbare.
 
@@ -225,6 +225,7 @@ Kulturdata er tilgjengelige gjennom API-er, web-tjenester, filer for nedlasting,
 
 Tabellen under illustrerer dette.
 
+.Dokumentasjon av kulturdatasett
 |===
 |*Datasett*|*Institusjon*|*Dokumentasjon på institusjonens egen nettside*|*Dokumentasjon på data.norge.no*|*Tilgjengelig i Norvegiana*
 
@@ -238,7 +239,7 @@ Tabellen under illustrerer dette.
 
 Digitalarkivet (Arkivverket) og Bokhylla (Nasjonalbiblioteket) er sektorens mest brukte webtjenester i dag. Populære data i Digitalarkivet er folketellinger, kirkebøker, adressebøker og andre «slektsgranskningrelaterte» data. Av disse er det kun folketellingen fra 1910 som er tilgjengelig som åpne data på data.norge.no. Det finnes ingen statistikk for bruken av denne.
 
-Bokhylla.no vil innen 2017 inneholde omlag 250 000 bøker som er utgitt i Norge til og med år 2000.  Teksten er indeksert og søkbar. Dataene er derimot ikke maskinlesbare, og er kun tilgjengelige for norske IP-adresser. Bokhylla er dermed ikke å anse som åpne data. Begrensningene for det rettighetsbeskyttede materialet dikteres av avtalen  Nasjonalbiblioteket har gjort med rettighetshaverne.
+http://bokhylla.no[Bokhylla.no] vil innen 2017 inneholde omlag 250 000 bøker som er utgitt i Norge til og med år 2000.  Teksten er indeksert og søkbar. Dataene er derimot ikke maskinlesbare, og er kun tilgjengelige for norske IP-adresser. Bokhylla er dermed ikke å anse som åpne data. Begrensningene for det rettighetsbeskyttede materialet dikteres av avtalen  Nasjonalbiblioteket har gjort med rettighetshaverne.
 
 ==== Bruk av åpne forvaltningsdata
 
@@ -263,24 +264,24 @@ Tilgjengeliggjøringen av åpne kulturdata har så langt gitt flere nye tjeneste
 |===
 |*Tjeneste / løsning*|*Tema*|*Utvikler*|*Data som inngår*
 
-|http://www.kultursok.no/[*Kultursøk]*|Innsyn; søke i flere samlinger|Webløft; Buskerud fylkesbibliotek|Norvegiana, NBdigital, folkebibliotekkataloger m.m.
-|http://mr.kulturnett.no/delving/search[*Kultursøk]*|Innsyn; søke i flere samlinger|Regionale kulturnett|Norvegiana
-|https://play.google.com/store/apps/details?id=no.avinet.norgeskart&hl=no[*Norgeskart]*|Mobilapplikasjon; innsyn; søke i flere samlinger|Avinet|Norvegiana, FT 1910
-|http://xn--enbltrd-hxac.no/kart/[*En blå tråd]*** **|Innsyn; søke i flere samlinger|Trondheim kommune, byplankontoret|Norvegiana
-|http://knreise.no/demonstratorer/[*Kartdemonstratorer]*|Mobil og nett. Kartvisning av innhold fra flere kilder|Kultur- og naturreise-prosjektet|Norvegiana, og flere andre kilder
-|http://knreise.org/index.php/mobil-formidling/knappen/[*KNappen]*|Mobilapplikasjon|Kultur- og naturreise-prosjektet|Norvegiana, og flere andre kilder
-|https://play.google.com/store/apps/details?id=no.kamikazemedia.rallarvegen&hl=no[*Rallarvegen]*|Mobilapplikasjon; opplevelser langs Rallervegen|Hordaland fylkeskommune|Norvegiana
-|http://proysenvandring.no/#first-page[*Prøysenvandring]*|Mobilapplikasjon; opplevelser i “Prøysenland”|Hedmark fylkesbibliotek|Norvegiana
-|https://itunes.apple.com/no/app/tteforsker-norway-around-1900/id630809223?mt=8[*Ætteforsker]*|Mobilapplikasjon |Privat utvikler|Folketelling 1910 og Norvegiana
-|http://stedr.blogspot.no/[*Stedr]*|Mobilapplikasjon |Prosjektet TAG CLOUD/Sintef|Norvegiana
-|http://knreise.no/demonstratorer/demonstratorer/flyktningeruta.html[*Historiske vandreruter]*** **|Nett og mobil|Riksantikvaren|Norvegiana
-|https://itunes.apple.com/no/app/oslo-i-gamle-dager/id962249492?mt=8[*Oslo i gamle dager]*|Mobilapplikasjon |Privat utvikler|DigitaltMuseum
-|http://samling.nasjonalmuseet.no/no/[*Nasjonalmuseets samlingssøk]*|Søk i museets samlinger|Nasjonalmuseet|DigitaltMuseum
-|http://arkivverket.no/arkivverket/Digitalarkivet/Om-Digitalarkivet/Organisasjon-og-tenester/Tenester/App-for-Digitalarkivet[*Digitalarkivet på mobil]*|Mobilapplikasjon |Riksarkivet |Digitalarkivet
-|http://www.bibliotekarensbestevenn.no/nbsok/[*Søkemotor for bibliotek]*|Lenkegenerator|http://www.bibvenn.no/[Bibliotekarens Beste Venn]|NBdigital
+|http://www.kultursok.no/[Kultursøk]|Innsyn; søke i flere samlinger|Webløft; Buskerud fylkesbibliotek|Norvegiana, NBdigital, folkebibliotekkataloger m.m.
+|http://mr.kulturnett.no/delving/search[Kultursøk]|Innsyn; søke i flere samlinger|Regionale kulturnett|Norvegiana
+|https://play.google.com/store/apps/details?id=no.avinet.norgeskart&hl=no[Norgeskart]|Mobilapplikasjon; innsyn; søke i flere samlinger|Avinet|Norvegiana, FT 1910
+|http://enblåtråd.no/[En blå tråd] |Innsyn; søke i flere samlinger|Trondheim kommune, byplankontoret|Norvegiana
+|http://knreise.no/demonstratorer/[Kartdemonstratorer]|Mobil og nett. Kartvisning av innhold fra flere kilder|Kultur- og naturreise-prosjektet|Norvegiana, og flere andre kilder
+|http://knreise.org/index.php/mobil-formidling/knappen/[KNappen]|Mobilapplikasjon|Kultur- og naturreise-prosjektet|Norvegiana, og flere andre kilder
+|https://play.google.com/store/apps/details?id=no.kamikazemedia.rallarvegen&hl=no[Rallarvegen]|Mobilapplikasjon; opplevelser langs Rallervegen|Hordaland fylkeskommune|Norvegiana
+|http://proysenvandring.no/#first-page[Prøysenvandring]|Mobilapplikasjon; opplevelser i “Prøysenland”|Hedmark fylkesbibliotek|Norvegiana
+|https://itunes.apple.com/no/app/tteforsker-norway-around-1900/id630809223?mt=8[Ætteforsker]|Mobilapplikasjon |Privat utvikler|Folketelling 1910 og Norvegiana
+|http://stedr.blogspot.no/[Stedr]|Mobilapplikasjon |Prosjektet TAG CLOUD/Sintef|Norvegiana
+|http://knreise.no/demonstratorer/demonstratorer/flyktningeruta.html[Historiske vandreruter] |Nett og mobil|Riksantikvaren|Norvegiana
+|https://itunes.apple.com/no/app/oslo-i-gamle-dager/id962249492?mt=8[Oslo i gamle dager]|Mobilapplikasjon |Privat utvikler|DigitaltMuseum
+|http://samling.nasjonalmuseet.no/no/[Nasjonalmuseets samlingssøk]|Søk i museets samlinger|Nasjonalmuseet|DigitaltMuseum
+|http://arkivverket.no/arkivverket/Digitalarkivet/Om-Digitalarkivet/Organisasjon-og-tenester/Tenester/App-for-Digitalarkivet[Digitalarkivet på mobil]|Mobilapplikasjon |Riksarkivet |Digitalarkivet
+|http://www.bibliotekarensbestevenn.no/nbsok/[Søkemotor for bibliotek]|Lenkegenerator|http://www.bibvenn.no/[Bibliotekarens Beste Venn]|NBdigital
 |===
 
-Detaljert oversikt og mer informasjon om de enkelte løsningene som bruker data fra Norvegiana er publisert på https://norvegianablog.wordpress.com/losninger-som-bruker-norvegiana-data/[https://norvegianablog.wordpress.com/losninger-som-bruker-norvegiana-data/]+++<u>+++.+++</u>+++
+https://norvegianablog.wordpress.com/losninger-som-bruker-norvegiana-data/[Detaljert oversikt over løsninger som bruker Norvegiana-data]
 
 Den generelle erfaringen er at tilgjengeliggjøring og bruk påvirker datakvaliteten positivt gjennom brukerkommentarer på feil og nødvendige forbedringer. Gitt at disse blir fulgt opp vil datakvaliteten bli bedre. Nasjonalbiblioteket har som mål å ta i bruk egne APIer internt, bl.a. for å selv kunne finne og rette feil i egne data og dermed heve datakvaliteten raskere.
 
@@ -295,11 +296,12 @@ I 2017 vil Arkivverket utbedre, dokumentere og åpne sitt eksisterende søke-API
 Norsk kulturråd vil tilby museumsstatistikken som åpne data via et API. Både intern og ekstern tilgang til dataene skal kanaliseres gjennom API-et og leveres som JSON (alternativ til XML). Videre behandling, f.eks. som lenkede data, er ikke planlagt, men vurderes videre når API-et er på plass. For øvrige forvaltningsdata er det ikke konkrete planer, utover en generell målsetning om å tilby søknadsdata som åpne data i den grad det er mulig innen 2018.
 
 Museenes digitale infrastruktur er i kontinuerlig utvikling. I 2017 er følgende aktiviteter sentrale:
+
  * KulturITs økosystem «eKultur» videreutvikles, bl.a. for å forbedre tilgangen til data fra Primus og DigitaltMuseum via felles API-er
  * MUSIT (universitetsmuseene) kjører et omfattende prosjekt med restrukturering av grunnleggende IT-arkitektur, som bl.a. skal ivareta behovene for effektiv tilgjengeliggjøring av samlingene som åpne data
  * KulturNav.org, som er KulturIT sitt verktøy for å skape, forvalte og dele felles åpen terminologi og autoritsregistre) skal videreutvikles for å bedre tilgangen til autoritetsregistre fra eksterne brukere og datasett, bl.a. gjennom et API
-==== Nasjonalbiblioteket
 
+==== Nasjonalbiblioteket
 Det følger av Nasjonal bibliotekstrategi 2015-2018 at Nasjonalbiblioteket skal sørge for at folkebibliotekene får tilgang til frie metadata fra en sentral kilde. Nasjonalbiblioteket har derfor inngått en avtale med Bokbasen om å produsere metadata for norske utgivelser fortløpende. Disse vil bli gjort åpent tilgjengelig i flere formater.
 
 Nasjonalbiblioteket lanserer i løpet av 2017 nye nettsider for tilgjengeliggjøring av samlingene. Det utvikles også nye API som brukes som utgangspunkt for formidlingstjenesten som skal finnes på nye nb.no. +
@@ -307,11 +309,9 @@ Nasjonalbiblioteket lanserer i løpet av 2017 nye nettsider for tilgjengeliggjø
 Nasjonalbiblioteket skal i samarbeid med Biblioteksystemer lage en ny løsning som erstatter dagens Biblioteksøk (http://www.nb.no/bibsok/start.jsf[http://www.nb.no/bibsok/start.jsf]). Tjenesten er en nasjonal søketjeneste som viser oversikt over hvilket bibliotek som har tilgang til den aktuelle publikasjonen.
 
 === Utviklingstrekk
-
 De siste fem årene har åpne og maskinlesbare data gradvis fått mer oppmerksomhet i kultur- og kanskje spesielt ABM-sektoren. Det er likevel fremdeles slik at begreper som åpenhet, tilgjengeliggjøring og viderebruk i de fleste sammenhenger knyttes til tradisjonell tilgjengeliggjøring av samlingsrelatert innhold i tjenester som NBdigital, Digitalarkivet og DigitaltMuseum. Samtidig har utviklingen i den tradisjonelle tilgjengeliggjøringen representert et viktig grunnlag for tilnærmingen til åpne data. Holdninger til deling, åpenhet og viderebruk er endret gjennom de siste 10–15 årene. Behovet for felles autoritetsregistre og vokabularer har vært kjent lenge, men er ytterligere konkretisert gjennom samarbeid og infrastruktur (bl.a. Kultur- og naturreiser, K-lab og KulturNav). Kunnskap om teknologi og lovverk har også utviklet seg positivt gjennom det mer tradisjonelle digitaliserings- og tilgjengeliggjøringsarbeidet.
 
 ==== Produkter og brukere
-
 Den tydeligste «trenden» de siste fem årene er kanskje nettopp åpne og maskinlesbare data, som har gitt et annet perspektiv både på hvilke kulturdata som er relevante i et brukerperspektiv, hvilke målgrupper vi henvender oss til og hvilke sluttprodukter som skal produseres. Sluttproduktet er ikke lenger «bare» en søkbar representasjon av et objekt eller et dokument med beskrivende metadata, men også en åpen tilgang til våre interne forvaltningsdata _som data_ – maskinlesbare, sammenstillbare og gjenbrukbare med andre data i nye kontekster.
 
 Sluttbrukeren kan, som før, være en journalist, forsker eller allment interessert kulturkonsument, men kan også være en kommersiell tjeneste- eller produktutvikler, en kollega i forvaltningen eller i egen virksomhet eller sektor. Bruken kan være av en type vi ikke kunne forutse for 5–10 år siden, og ennå ikke klarer å beskrive dekkende og presist. Det er i dag en økende forventning til at offentlige data er åpent tilgjengelig. Likevel er både tilbud og etterspørsel foreløpig på et svært moderat nivå i kultursektoren. Det er rimelig å anta at bildet er et annet om ytterligere fem år.
@@ -326,7 +326,7 @@ Praksis har beveget seg fra å tilgjengeliggjøre statiske datasett (CSV, XML) t
 
 ==== Kultur- og naturreise / K-lab
 
-_Kultur- og naturreise_ var et tverretatlig samarbeidsprosjekt (fra 2012 til 2015) mellom Kartverket, Norsk kulturråd, Riksantikvaren og Arkivverket (Miljødirektoratet deltok 2012-2014). Prosjektet la til rette for at innhold i fagdatabaser hos partnere kunne åpnes opp og gjøres tilgjengelig for bruk og videreutvikling av andre til nye tjenester; av nærings- og reiseliv, i friluftsliv og undervisning. Målet var å øke kunnskap om og skape engasjement for kulturminner og naturverdier. Prosjektet er dokumentert på http://knreise.org/[http://knreise.org/]+++<u>+++.+++</u>+++  +
+_Kultur- og naturreise_ var et tverretatlig samarbeidsprosjekt (fra 2012 til 2015) mellom Kartverket, Norsk kulturråd, Riksantikvaren og Arkivverket (Miljødirektoratet deltok 2012-2014). Prosjektet la til rette for at innhold i fagdatabaser hos partnere kunne åpnes opp og gjøres tilgjengelig for bruk og videreutvikling av andre til nye tjenester; av nærings- og reiseliv, i friluftsliv og undervisning. Målet var å øke kunnskap om og skape engasjement for kulturminner og naturverdier. Prosjektet er dokumentert http://knreise.org/[her]
 
 _K-lab_ er et utviklingssamarbeid i forlengelsen av _Kultur- og naturreise_ for å gjøre åpne kultur- og kulturminnedata og relaterte geodata mer tilgjengelige. K-lab skal legge til rette for økt bruk gjennom bedre tilgjengeliggjøring, sammenstilling og formidling. I K-lab deltar Kartverket, Riksantikvaren, Arkivverket og Norsk kulturråd. En viktig effekt av K-lab er økt bevissthet rundt relevante problemstillinger og nødvendige tiltak i de samarbeidende organisasjonene. Samarbeidet brukes også som plattform for internasjonale kontakter og samarbeid. Det er bl.a. forsøk på nordiske samarbeid knyttet til hackatons og Linked Open Data (#nordLOD), primært med Digisam i Sverige.
 
@@ -343,27 +343,22 @@ Norsk kulturråd har bidratt til etableringen av nettstedet KulturNav.org, som e
 Nasjonalbiblioteket inngår i en rekke internasjonale samarbeid på biblioteksrelaterte områder som også kan ha interesse utover sektoren. CLARIN er et felles europeisk initiativ som samler språkressurser for å tilrettelegge for utvikling av språkteknologi. IIIF er et internasjonalt samarbeid for å utforme et standardformat for utveksling av bilder. IIPC er et internasjonalt samarbeid for utvikling av standarder for bevaring av internett. Nasjonalbiblioteket har videre startet et prosjekt som skal utrede muligheter for automatisert metadatafangst. Prosjektet startet i januar 2016 og skal ferdigstilles januar 2019.
 
 ==== Opphavsrettslige rammeavtaler
-
 Kulturrådet ga i 2014 tilskudd til BONO (Billedkunst opphavsrett Norge) for å utrede mulighetene for et felles avtaleverk (avtalelisens) for kulturhistorisk fotografi i norske museer. Prosjektet følges nå opp av Norges museumsforbund i dialog med Kulturrådet. Dersom en slik avtale kommer på plass, vil det kunne være relevant for andre i kultursektoren som forvalter kulturhistorisk fotografi og eventuelt også billedkunst, å kunne koble seg på avtalen.
 
 ==== Internasjonale trender og prosesser
-
 Arts Council England har fokus på å tilgjengeliggjøre sine data i tråd med _The Freedom of Information Act_. De har publisert «Arts Council England data principles», hvor viktige punkter går på transparens, at man skal publisere så mye som mulig så åpent som mulig, og at åpne og lenkede data (LOD) er et mål. Tilgjengeliggjorte data inkluderer tildelinger i form av excel-filer og museumsstatistikk og rapportering som CSV. Det er derimot publisert med lite dokumentasjon og uten API-er, og er dermed å anse som en positiv tendens mer enn åpne data.
 
 Tunge internasjonale museumsaktører forholder seg til CIDOC-CRM og tilbyr data som RDF via SPARQL endepunkter. Andre publiserer til dels åpne data, men med mindre spesifikke modeller/standarder (EDM, Dublin Core) og mindre dokumentasjon.
 
+_Digisam_ er et samordningssekretariat for digitalisering, digital bevaring og digital tilgjengeliggjøring av kulturarvsmateriale i Sverige, etablert av regjeringen/kulturdepartementet i 2011, og med ansvar lagt til Riksarkivet. En lang rekke institusjoner medvirker til Digisams arbeid, bl.a. Kungliga biblioteket (nasjonalbiblioteket) og alle de store museene. Videreføring av sekretariatet er nylig besluttet lagt til Riksantikvarieämbetet. Kunnskapsinnsamling og kompetanseoppbygging på feltet er hovedmålet. Digisam arbeider bl.a. for åpning av offentlige kulturdata ved å utgi anbefalinger, arrangere seminarer, hackatons m.m. En oversikt over deres http://www.digisam.se/leveranser/leveranser-alla/[skriftlige anbefalinger og rapporter finnes her].
 
-_Digisam_ er et samordningssekretariat for digitalisering, digital bevaring og digital tilgjengeliggjøring av kulturarvsmateriale i Sverige, etablert av regjeringen/kulturdepartementet i 2011, og med ansvar lagt til Riksarkivet. En lang rekke institusjoner medvirker til Digisams arbeid, bl.a. Kungliga biblioteket (nasjonalbiblioteket) og alle de store museene. Videreføring av sekretariatet er nylig besluttet lagt til Riksantikvarieämbetet. Kunnskapsinnsamling og kompetanseoppbygging på feltet er hovedmålet. Digisam arbeider bl.a. for åpning av offentlige kulturdata ved å utgi anbefalinger, arrangere seminarer, hackatons m.m. En oversikt over deres skriftlige anbefalinger og rapporter finnes her: http://www.digisam.se/leveranser/leveranser-alla/[http://www.digisam.se/leveranser/leveranser-alla/].
-
-Åpne datasett og API-er bekjentgjøres og dokumenteres på http://oppnadata.se/[_oppnadata.se]_, tilsvarende det norske _data.norge.no_. Det finnes også et alternativt nettsted, _opendata.se._
+Åpne datasett og API-er bekjentgjøres og dokumenteres på http://oppnadata.se/[oppnadata.se], tilsvarende det norske http://data.norge.no[data.norge.no]. Det finnes også et alternativt nettsted, http://opendata.se[opendata.se].
 
 I tråd med den svenske regjeringens målsetting om en «åpnere forvaltning som bidrar til innovasjon og vekst», har Riksarkivet fått i oppdrag å forenkle situasjonen for dem som vil viderebruke åpne data. Oppdraget omfatter bl.a. å gi hjelp til den enkelte borger med å finne ut hvor i statsforvaltningen åpne data finnes og bistå i kontakten med den aktuelle myndigheten.
 
 _Europeana_ er EUs store satsing for å etablere en felles europeisk tilgang til kunst- og kulturdata. Søkeportalen http://www.europeana.eu/portal/[Europeana.eu] gir tilgang til over 50 mill. bøker, billedkunst, filmer, gjenstander og arkivmateriale fra ca. 40 land. Mer enn 2 500 europeiske institusjoner har bidratt til Europeana, alt fra store internasjonale navn som Rijksmuseum i Amsterdam, British Library og Louvre museet, til regionale arkiver og lokale museer. Mona Lisa av Leonardo da Vinci, arbeidene til Charles Darwin og Isaac Newton og musikken til Wolfgang Amadeus Mozart er noen av høydepunktene på Europeana.eu. De mange delprosjektene i Europeana har vært viktige for utvikling av beste praksis, retningslinjer og anbefalinger, samt europeiske fagnettverk på området.
 
 ==== Modenheten for økt tilgjengeliggjøring i sektoren
-
-
 Det har gjennom mange år vært ulike initiativer med en felles tilnærming til digitalisering og tilgjengeliggjøring i ABM-sektoren på tvers av institusjons- og til dels sektorgrenser, både med tanke på felles prioriteringer, økt datakvalitet og forbedrede publikumstjenester. Internasjonale prosesser, standarder og samarbeid som Europeana og CIDOC (standardisering av utvekslingsformater og felles datamodell) har også vært viktige drivere i denne retning, gjennom et behov for bearbeiding av data, effektiv utveksling av data m.m.
 
 Det finnes lite sammenliknbare tall for åpne kulturdata i Norge og kultursektoren i for eksempel Europa. Likevel indikerer de tall vi har at situasjonen på relaterte områder er vel så god i Norge og Norden enn i Europa for øvrig. Blant annet er Norge den tredje største bidragsyteren til Europeana (regnet i totalt antall etter Nederland og Tyskland) og den desidert største bidragsyteren regnet per capita. Det Europeana-eide prosjektet Enumerate leverte tall i sin rapport «Survey Report on Digitisation in European Cultural Heritage Institutions 2014» som viser at kulturarvssektoren også på andre relaterte områder står seg godt i en sammenlikning med Europa.
@@ -396,7 +391,8 @@ Vi har viktige fortrinn i Norge og Norden, gjennom et godt organisert kunst- og 
 
 ==== Taushetbelagt materiale
 
-Det kan i tillegg til de opphavsrettslige utfordringene også være personvernmessige utfordringer knyttet til tilgjengeliggjøring av åpne data. Sett med kulturrelatert data kan inneholde mange personopplysninger. Eksempel på dette er datasett fra Arkivverket.  +
+Det kan i tillegg til de opphavsrettslige utfordringene også være personvernmessige utfordringer knyttet til tilgjengeliggjøring av åpne data. Sett med kulturrelatert data kan inneholde mange personopplysninger. Eksempel på dette er datasett fra Arkivverket.
+
 Slike problemstillinger vil kreve aktsomhet og god dialog med Datatilsynet og andre relevante myndigheter. Vurderingen av om informasjon som inneholder personopplysninger eller som er underlagt taushetsplikt kan tilgjengeliggjøres, må gjøres på bakgrunn av bestemmelsene i personopplysningsloven og de lover og avtaler som regulerer taushetsplikten knyttet til de aktuelle opplysningene.
 
 ==== Kompetanse og ressurser
