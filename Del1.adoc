@@ -1,7 +1,7 @@
 
 
 == Om dokumentet
-Del 1 er skrevet av Difi ved Heather Broomfield og Øystein Åsnes. Bidragsytere: Øyvind Grinde, Livar Bergheim og Marta Kari Schawlann.
+Del 1 er skrevet av Difi ved mailto:heather.broomfield@difi.no[Heather Broomfield] og mailto:oystein.asnes@difi.no[Øystein Åsnes]. Bidragsytere: Øyvind Grinde, Livar Bergheim og Marta Kari Schawlann.
 
 Status for de 5 sektorene (Del 2), er beskrevet av ansvarlig departement for hvert område. Kontaktpersoner i departementene:
 _kart- og eiendomsdata_; Kari Strande (Kommunal- og moderniseringsdepartementet) _transportsektoren_; Ida Monclair (Samferdelsdepartementet),  _statlige utgifter_; Astri Tverstøl (Finansdepartementet), _forskning_; Hanne Monclair (Kunnskapsdepartementet), _kultur_; Bjørn Olav Tveit (Kulturdepartementet).
