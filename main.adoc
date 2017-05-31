@@ -33,3 +33,6 @@ include::Statlige_utgifter.adoc[]
 include::Forskning.adoc[]
 
 include::Kultur.adoc[]
+
+
+include::utils/stats.adoc[]
