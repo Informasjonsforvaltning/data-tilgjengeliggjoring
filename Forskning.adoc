@@ -2,16 +2,46 @@
 
 === Pågående aktiviteter
 
-Kunnskapsdepartementet (KD) har bedt Forskningsrådet om å bistå i arbeidet med å utarbeide en nasjonal strategi/handlingsplan for tilgjengeliggjøring av forskningsdata. I januar 2017 vil Forskningsrådet levere et kunnskapsgrunnlag som inneholder
+Kunnskapsdepartementet (KD) har bedt Forskningsrådet om å bistå i arbeidet med å utarbeide en nasjonal strategi for tilgjengeliggjøring av forskningsdata. I januar 2017 leverte Forskningsrådet https://www.forskningsradet.no/no/Publikasjon/Tilgjengeliggjoring_av_forskningsdata_og_data_for_forskning/1254022829235?lang=no[et kunnskapsgrunnlag] som inneholdt; 
 
- * Kartlegging av Forskningsrådets investeringer i infrastrukturer som støtter tilgjengeliggjøring av forskningsdata
- * Kartlegging av hvilke norske tjenester for lagring av forskningsdata som finnes i dag
- * Innspill til arbeidsdeling og rolleavklaring mellom tjenesteleverandører
- * Innspill til mulige finansieringsmodeller for nasjonalt viktige tjenester knyttet til lagring og deling av forskningsdata
+ * En kortfattet gjennomgang av relevante pågående prosesser nasjonalt og internasjonalt (primært i EU) knyttet til tilgjengeliggjøring av forskningsdata, herunder litt om hvorfor tilgjengeligjøring av forskningsdata har kommet på den politiske agendaen.
+ * En samlet oversikt over datainfrastrukturer som hittil har fått finansiering fra Forskningsrådet, primært fra Nasjonal satsing på forskningsinfrastruktur (ca. 1 milliard kr i samlet kontraktssum hittil).
+ * En oversikt over viktige nasjonale tjenester for håndtering av forskningsdata og forvaltningsdata av interesse for forskning
+ * En gjennomgang av ulike finansieringsmodeller for datainfrastrukturer.
+ * En gjennomgang av identifiserte behov identifisert gjennom samtaler og dialogmøter med nasjonale leverandører av tjenester for lagring og tilgjengeliggjøring av data og UH-sektoren.
+ * En kortfattet drøfting av behov og mulige løsninger, samt innspill (se nedenfor).
 
-De to første punktene har bakgrunn i at KD, gjennom bevilgninger til Forskningsrådet, har investert 4,1 mrd. i forskningsinfrastruktur siden 2009. Av disse har én mrd. gått til et tjuetalls infrastrukturer for å håndtere og tilgjengeliggjøre data. Andre departementer investerer også tungt forvaltningsmessig i datahåndtering, registre osv.
+Kartleggingen Forskningsrådet foretok viser at det finnes en del barrierer for å få tilgang til data fra de datainfrastrukturer som i dag finnes/etableres. Dette gjelder både forsknings- og forvaltningsdata. De viktigste barrierene** **er:
 
-Med utgangspunkt i kunnskapsgrunnlaget fra Forskningsrådet med mer, vil KD begynne det tverrdepartementale arbeidet med en strategi for forskertilgang til data i januar 2017.
+ * Manglende felles standarder for data og metadata kan gjøre gjenbruk av forsknings- og forvaltningsdata vanskelig.
+ * Flere forskningsinstitusjoner er restriktive med å tilgjengeliggjøre egne data for gjenbruk.
+ * Uthenting av data fra datainfrastrukturer eller registre der kostnadene for tilgang belastes forskningsprosjekter, har ofte manglende forutsigbarhet hva angår kostnader og tiden det tar.
+ * For helse og persondata er det mange ulike aktører som igjen er underlagt ulike forskrifter og formål, og hvor komplekse og strenge utleveringsbetingelser vanskeliggjør gjenbruk av data.
+Kunnskapsgrunnlaget avdekker vesentlige strukturelle, tekniske og økonomiske behov som bør adresseres for å oppnå sikrere lagring og bedre tilgang til forskningsdata og forvaltningsdata for forskning. Noen av de viktigste behovene aktørene har løftet fram er:
+
+ * Strengere krav om deling av forskningsdata og om datahåndteringsplaner i forskningsprosjekter
+ * Institusjonelle policyer for datahåndtering
+ * Samordning av nasjonale tjenester og aktører
+ * Utvikling og innføring av internasjonalt omforente standarder for datahåndtering
+ * Opplæring og kulturendring blant forskere og studenter
+ * Insentiver for lagring og tilgjengeliggjøring av datasett
+ * Langsiktighet og forutsigbarhet ved finansiering av datainfrastruktur
+ * Bevaring og tilgjengeliggjøring av allerede innsamlede datasett slik at disse kan gjenbrukes
+I kunnskapsgrunnlaget gir Forskningsrådet følgende **i**nnspill til det videre arbeidet for økt tilgjengeliggjøring av forskningsdata:
+
+ * Forskningsinstitusjonene bør i samarbeid med egne forskere lage retningslinjer for hvilke data som skal lagres, kurateres og tilgjengeliggjøres ved egen institusjon.
+ * Forskningsrådet og andre som bidrar med offentlige midler til FoU bør vurdere å kreve en datahåndteringsplan for prosjekter som genererer forskningsdata.
+ * Kunnskapsdepartementet bør vurdere å etablere et "forskningsdataforum" for samordning og videreutvikling av nasjonale løsninger for lagring, analyse og tilgjengeliggjøring av forskningsdata.
+ * Forskningsinstitusjonene bør vurdere å etablere felles kommunikasjonsarenaer hvor de kan diskutere fagspesifikke standarder som muliggjør deling og gjenbruk av data.
+ * Forskningsinstitusjonene bør vurdere å utvikle én felles, nasjonal tjeneste for sikker analyse og kortidslagring av sensitive forskningsdata.
+ * Institusjonene bør vurdere å legge bedre til rette for opplæring i datahåndtering og gjenbruk av data.
+ * Kunnskapsdepartementet bør vurdere å utrede insentiver for tilgjengeliggjøring av forskningsdata.
+ * Institusjoner med ansvar for datainfrastrukturer bør etablere langsiktige driftsfinansieringsmodeller.
+ * Forskningsrådet bør vurdere å utarbeide kriterier for hvordan Nasjonal satsing på forsknings-infrastruktur i spesielle tilfeller skal kunne bidra til grunnfinansiering av drift av datainfrastrukturer.
+ * Kunnskapsdepartementet, i samarbeid med relevante fagdepartementer, bør vurdere å utrede mulighetene for en strukturell finansiering som kan dekke kostnader til å gi forskerne innsyn i hvilke forvaltningsdata som finnes og avklare om forskningsprosjektet kan få tilgang til nødvendige data.
+ * KD bør vurdere å opprette en arbeidsgruppe med representanter fra sentrale forskningsinstitusjoner som kan utfylle eksisterende kunnskapsgrunnlag.
+
+KD påbegynt det tverrdepartementale arbeidet med en strategi for tilgang til data i januar 2017.
 
 Andre norske aktiviteter som er relevant for tilgjengeliggjøring av forskningsdata:
 
@@ -21,17 +51,17 @@ Andre norske aktiviteter som er relevant for tilgjengeliggjøring av forskningsd
  * Arbeidsgruppen for IKT-strategi og helhetlige løsninger i UH leverte første delrapport til KD 29. juni og vil levere endelig rapport med forslag til IKT-strategi for UH-sektoren i november-desember. Spørsmålet om IKT-organisering utgjør en viktig komponent i oppfølgingen av rapporten fra Gjedrem og Fagernæs, "Kunnskapssektoren sett utenfra" (jan. 2016), om organisering av kunnskapssektoren.
  * HOD mottar rapporten fra ekspertutvalget som skal utrede enklere tilgang og bedre utnyttelse av helsedata 30. juni 2017.
  * Norge har formannskapet i Nordisk ministerråd i 2017. Åpen forskning vil være et prioritert felt i det norske formannskapet.
- * FIN har nedsatt et utvalg som skal vurdere statistikkloven og Statistisk sentralbyrås virksomhet. Utvalget skal levere sin rapport innen 15. desember 2017. https://www.regjeringen.no/no/aktuelt/dep/fin/pressemeldinger/2016/utvalg-skal-vurdere-statistikkloven/mandat-for-statistikklovutvalget/id2510801/[Se mandat for utvalget]
- * EUs nye personvernforordning skal implementeres i Norge våren 2018. Justisdepartementet leder arbeidsgruppen der også Kunnskapsdepartementet deltar.
+ * FIN har nedsatt et utvalg som skal vurdere statistikkloven og Statistisk sentralbyrås virksomhet. Utvalget skal levere sin rapport innen 15. desember 2017. https://www.regjeringen.no/no/aktuelt/dep/fin/pressemeldinger/2016/utvalg-skal-vurdere-statistikkloven/mandat-for-statistikklovutvalget/id2510801/
+ * EUs nye personvernforordning skal implementeres i Norge våren 2018. JD leder arbeidsgruppen der også KD deltar.
 
 Tilgjengeliggjøring av forskningsdata er et viktig tema også globalt, og spesielt EU har mange aktiviteter som skal støtte opp under bedre tilgang, bruk og deling av forskningsdata. Noen sentrale, pågående aktiviteter:
 
- * EU vedtok http://ec.europa.eu/research/era/optimal-circulation_en.htm[ambisiøse rådskonklusjoner] om åpen forskning 27. mai 2016. Punkter på European Research Area Roadmap om tilgang til kunnskap skal følges opp, jf. https://www.regjeringen.no/contentassets/1b619466970f4e9b98b3d639b78cd200/era-national-action-plans-2016---2020---norway.pdf[vårt nasjonale veikart prioritering 5 A og B]
+ * EU vedtok ambisiøse rådskonklusjoner om åpen forskning 27. mai 2016. Punkter på European Research Area Roadmap om tilgang til kunnskap skal følges opp (http://ec.europa.eu/research/era/optimal-circulation_en.htm), jf. vårt nasjonale veikart prioritering 5 A og B https://www.regjeringen.no/contentassets/1b619466970f4e9b98b3d639b78cd200/era-national-action-plans-2016---2020---norway.pdf
  * Europakommisjonen har besluttet at alle data som genereres gjennom forsknings- og innovasjonsprogrammet Horisont 2020 skal være åpne som standard (as open as possible, as closed as necessary). Dette var en del av European Cloud Initiative, presentert 19. april 2016.
  * Som en del av European Cloud Initiative presenterte kommisjonen 19.april 2016 også planene om en European Open Science Cloud (EOSC).  EOSC skal sikre tilgang til data og tilhørende tjenester basert på FAIR prinsippene; Findability, Accessibility, Interoperability, Reusability. EOSC vil bli basert på eksisterende komponenter som er utviklet gjennom europeisk samarbeid eller i medlemslandene og assosierte land.
  * OECD Global Science Forum har to pågående prosjekter knyttet til åpne forskningsdata; Sustainable business models for data repositories og International coordination of data infrastructures for open science. (Norske representanter er henholdsvis Roar Skålin, Forskningsrådet, i den første og Benjamin Pfeil, UiB/Bjerknessenteret, i den andre.)
- * Den 14. september 2016 presenterte Europakommisjonen forslag til https://ec.europa.eu/digital-single-market/en/news/proposal-directive-european-parliament-and-council-copyright-digital-single-market[nytt opphavsrettsdirektiv]. Direktivet er relevant for forskningsdata fordi det omtaler forskernes mulighet til å søke i tekst og data (text and data mining).
- * I Frankrike er det https://www.openaire.eu/france-final-text-of-the-law-for-oa-has-been-adopted[vedtatt en egen lov om åpen tilgang til forskningsresultater], herunder forskningsdata.
+ * Den 14. september 2016 presenterte Europakommisjonen forslag til nytt opphavsrettsdirektiv. Direktivet er relevant for forskningsdata fordi det omtaler forskernes mulighet til å søke i tekst og data (text and data mining). https://ec.europa.eu/digital-single-market/en/news/proposal-directive-european-parliament-and-council-copyright-digital-single-market
+ * I Frankrike er det vedtatt en egen lov om åpen tilgang til forskningsresultater, herunder forskningsdata. https://www.openaire.eu/france-final-text-of-the-law-for-oa-has-been-adopted
 
 === Sentrale problemstillinger
 
@@ -46,13 +76,17 @@ Løsningene for arkivering av forskningsdata må ha en langsiktighet for at de s
 Forskningen bruker flere databaser og registre som er opprettet for forvaltningsformål. Eierne av disse databasene/registrene har ikke egen bevilgning eller andre midler for å tilgjengeliggjøre data for forskning. I noen tilfeller må brukerne dekke alle kostnadene ved tilgang. Det kan redusere bruk av dataene i forskning og påvirke hvilken forskning som kan gjennomføres.
 
 ==== Bruk av helsedata i forskning
-Dagens situasjon er preget av mange aktører med databehandleransvar som er underlagt ulike forskrifter og formål og hvor komplekse og strenge utleveringsbetingelser vanskeliggjør eller umuliggjør gjenbruk av data. De ulike datasystemene har ulik kvalitet, formater, standarder og grensesnitt som fører til utfordringer vedrørende muligheten for å koble datasett fra ulike databehandlere. Forskerne opplever i dag lite forutsigbarhet mht. tidsbruk og kostnader ved søknad om tilgang til data. Det er ønske om en gjennomgang av de ulike registres forskrifter og omforent tolkning av forskriftene for å lette tilgangen og gjenbruk av data, en effektivisering av tekniske løsninger, mer opplæring av forskerne samt en større forutsigbarhet for forskerne vedrørende søknader om tilgang til data, uten at dette forringer ivaretakelsen av personvernet.
+
+(forutsetningen om at personvern ivaretas er selvsagt): Dagens situasjon er preget av mange aktører med databehandleransvar som er underlagt ulike forskrifter og formål og hvor komplekse og strenge utleveringsbetingelser vanskeliggjør eller umuliggjør gjenbruk av data. De ulike datasystemene har ulik kvalitet, formater, standarder og grensesnitt som fører til utfordringer vedrørende muligheten for å koble datasett fra ulike databehandlere. Forskerne opplever i dag lite forutsigbarhet mht. tidsbruk og kostnader ved søknad om tilgang til data. Det er ønske om en gjennomgang av de ulike registres forskrifter og omforent tolkning av forskriftene for å lette tilgangen og gjenbruk av data, en effektivisering av tekniske løsninger, mer opplæring av forskerne samt en større forutsigbarhet for forskerne vedrørende søknader om tilgang til data, uten at dette forringer ivaretakelsen av personvernet.
 
 ==== Insentiver for publisering og deling av data
+
 Sett fra forskerens synspunkt er det i dag få insentiver knyttet til å dele data, mens arbeidet med å gjøre data tilgjengelig og brukbare for andre forskere kan være omfattende og gå utover egen vitenskapelig produksjon.
 
 ==== Harmonisering med internasjonale løsninger
+
 Deling av forskningsdata er en internasjonal aktivitet. Det betyr at for eksempel finansieringsmodeller, tekniske løsninger for tilgang (autentisering og autorisering), metadata, lisenser og identifikatorer for datasett må være basert på eller tilpasset internasjonale løsninger. Videre vil forskerne benytte både institusjonelle, nasjonale og internasjonale arkiv for deling av sine data.
 
 ==== Dataomfang
+
 Det produseres enorme mengder med forskningsdata. Det vil ikke være kostnadseffektiv å gjøre alle dataene tilgjengelig, ei heller å lagre dataene. Det må utvikles retningslinjer for å avklare hvilke data som skal tas vare på og gjøres tilgjengelig.
