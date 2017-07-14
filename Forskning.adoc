@@ -28,7 +28,7 @@ Kunnskapsgrunnlaget avdekker vesentlige strukturelle, tekniske og økonomiske be
  * Langsiktighet og forutsigbarhet ved finansiering av datainfrastruktur
  * Bevaring og tilgjengeliggjøring av allerede innsamlede datasett slik at disse kan gjenbrukes
 
-I kunnskapsgrunnlaget gir Forskningsrådet følgende i nnspill til det videre arbeidet for økt tilgjengeliggjøring av forskningsdata:
+I kunnskapsgrunnlaget gir Forskningsrådet følgende innspill til det videre arbeidet for økt tilgjengeliggjøring av forskningsdata:
 
  * Forskningsinstitusjonene bør i samarbeid med egne forskere lage retningslinjer for hvilke data som skal lagres, kurateres og tilgjengeliggjøres ved egen institusjon.
  * Forskningsrådet og andre som bidrar med offentlige midler til FoU bør vurdere å kreve en datahåndteringsplan for prosjekter som genererer forskningsdata.
