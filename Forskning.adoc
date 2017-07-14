@@ -2,7 +2,7 @@
 
 === Pågående aktiviteter
 
-Kunnskapsdepartementet (KD) har bedt Forskningsrådet om å bistå i arbeidet med å utarbeide en nasjonal strategi for tilgjengeliggjøring av forskningsdata. I januar 2017 leverte Forskningsrådet https://www.forskningsradet.no/no/Publikasjon/Tilgjengeliggjoring_av_forskningsdata_og_data_for_forskning/1254022829235?lang=no[et kunnskapsgrunnlag] som inneholdt; 
+Kunnskapsdepartementet (KD) har bedt Forskningsrådet om å bistå i arbeidet med å utarbeide en nasjonal strategi for tilgjengeliggjøring av forskningsdata. I januar 2017 leverte Forskningsrådet https://www.forskningsradet.no/no/Publikasjon/Tilgjengeliggjoring_av_forskningsdata_og_data_for_forskning/1254022829235?lang=no[et kunnskapsgrunnlag] som inneholdt;
 
  * En kortfattet gjennomgang av relevante pågående prosesser nasjonalt og internasjonalt (primært i EU) knyttet til tilgjengeliggjøring av forskningsdata, herunder litt om hvorfor tilgjengeligjøring av forskningsdata har kommet på den politiske agendaen.
  * En samlet oversikt over datainfrastrukturer som hittil har fått finansiering fra Forskningsrådet, primært fra Nasjonal satsing på forskningsinfrastruktur (ca. 1 milliard kr i samlet kontraktssum hittil).
@@ -27,7 +27,8 @@ Kunnskapsgrunnlaget avdekker vesentlige strukturelle, tekniske og økonomiske be
  * Insentiver for lagring og tilgjengeliggjøring av datasett
  * Langsiktighet og forutsigbarhet ved finansiering av datainfrastruktur
  * Bevaring og tilgjengeliggjøring av allerede innsamlede datasett slik at disse kan gjenbrukes
-I kunnskapsgrunnlaget gir Forskningsrådet følgende **i**nnspill til det videre arbeidet for økt tilgjengeliggjøring av forskningsdata:
+
+I kunnskapsgrunnlaget gir Forskningsrådet følgende i nnspill til det videre arbeidet for økt tilgjengeliggjøring av forskningsdata:
 
  * Forskningsinstitusjonene bør i samarbeid med egne forskere lage retningslinjer for hvilke data som skal lagres, kurateres og tilgjengeliggjøres ved egen institusjon.
  * Forskningsrådet og andre som bidrar med offentlige midler til FoU bør vurdere å kreve en datahåndteringsplan for prosjekter som genererer forskningsdata.
