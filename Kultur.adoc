@@ -6,7 +6,7 @@ I Meld. St. 27 (2015-2016) "Digital agenda for Norge – IKT for en enklere hver
 [quote]
 Data fra denne sektoren er verdifulle for kulturbaserte næringer. Denne typen data vil være lette å formidle og ha bred appell til publikum. Data herfra vil være lett å integrere med andre typer offentlige og private data. Samtidig må man ta hensyn til utfordringer knyttet til tredjeparts opphavsrettigheter. Åpne data om ordninger på kulturområdet vil kunne bidra til en mer transparent kulturforvaltning.
 
-Under Kulturdepartementet er det særlig Nasjonalbiblioteket, Arkivverket og Norsk kulturråd som har store mengder kulturdata. Strategien (som er under arbeid red. anm.) har derfor lagt hovedvekt på disse tre etatenes virksomhet.
+Under Kulturdepartementet er det særlig Nasjonalbiblioteket, Arkivverket og Norsk kulturråd som har store mengder kulturdata.  https://www.regjeringen.no/id2576038/[Kulturdepartementets strategi for åpne data] har derfor lagt hovedvekt på disse tre etatenes virksomhet.
 
 Samtidig er det viktig å påpeke at kulturdata og relaterte data finnes i en rekke andre statlige etater og offentlig finansierte institusjoner, både under Kulturdepartementet og andre departementer og forvaltningsnivåer. Det gjelder for eksempel Den Norske Kirke, Språkrådet og NRK, Den norske opera og diverse teatre og konsertarenaene. Som eksempler på kulturdata på andre forvaltningsområder og -nivåer kan nevnes:
 

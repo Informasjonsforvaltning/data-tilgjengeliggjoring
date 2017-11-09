@@ -2,7 +2,7 @@ include::utils/translation.adoc[]
 
 = Kunnskapsgrunnlag - økt tilgjengeliggjøring av offentlige data
 Direktoratet for forvaltning og IKT
-v 1.1
+v 1.11
 :description:
 :doctype: book
 :icons: font
