@@ -206,6 +206,7 @@ Tilgjengelige data (ikke åpne):
  * aldersgrense på spill (PEGIs spillbase)
  * veiledere for barn og voksne om digitale medier
  * veiledningsfilmer på youtube
+
 ==== Norsk Filminstitutt
 
 Norsk Filminstitutt har ingen åpne datasett p.t, men det arbeides med et API for Filmdatabasen. Filmdatabasen består av filmer som Norsk Filminstitutt har eller har hatt i sin festivaldistribusjon. Databasen er et oppslagsverk for norske spillefilmer, kortfilmer og dokumentarfilmer som er produsert siden 2002. Den er ikke en komplett oversikt over norsk film, da den først og fremst inneholder filmer som Filminstituttet har jobbet med. Hvor egnet databasen er når det gjelder deling er noe usikkert, da den først og fremst er et arbeidsverktøy for lansering av film i utlandet. Totalt inneholder databasen ca. 1500 filmer, og antallet øker hele tiden.
@@ -306,7 +307,7 @@ Museenes digitale infrastruktur er i kontinuerlig utvikling. I 2017 er følgende
 ==== Nasjonalbiblioteket
 Det følger av Nasjonal bibliotekstrategi 2015-2018 at Nasjonalbiblioteket skal sørge for at folkebibliotekene får tilgang til frie metadata fra en sentral kilde. Nasjonalbiblioteket har derfor inngått en avtale med Bokbasen om å produsere metadata for norske utgivelser fortløpende. Disse vil bli gjort åpent tilgjengelig i flere formater.
 
-Nasjonalbiblioteket lanserer i løpet av 2017 nye nettsider for tilgjengeliggjøring av samlingene. Det utvikles også nye API som brukes som utgangspunkt for formidlingstjenesten som skal finnes på nye nb.no. +
+Nasjonalbiblioteket lanserer i løpet av 2017 nye nettsider for tilgjengeliggjøring av samlingene. Det utvikles også nye API som brukes som utgangspunkt for formidlingstjenesten som skal finnes på nye nb.no.
 
 Nasjonalbiblioteket skal i samarbeid med Biblioteksystemer lage en ny løsning som erstatter dagens Biblioteksøk (http://www.nb.no/bibsok/start.jsf[http://www.nb.no/bibsok/start.jsf]). Tjenesten er en nasjonal søketjeneste som viser oversikt over hvilket bibliotek som har tilgang til den aktuelle publikasjonen.
 
@@ -318,7 +319,8 @@ Den tydeligste «trenden» de siste fem årene er kanskje nettopp åpne og maski
 
 Sluttbrukeren kan, som før, være en journalist, forsker eller allment interessert kulturkonsument, men kan også være en kommersiell tjeneste- eller produktutvikler, en kollega i forvaltningen eller i egen virksomhet eller sektor. Bruken kan være av en type vi ikke kunne forutse for 5–10 år siden, og ennå ikke klarer å beskrive dekkende og presist. Det er i dag en økende forventning til at offentlige data er åpent tilgjengelig. Likevel er både tilbud og etterspørsel foreløpig på et svært moderat nivå i kultursektoren. Det er rimelig å anta at bildet er et annet om ytterligere fem år.
 
-Det er skapt økt bevissthet og aktivitet i sektoren, bl.a. gjennom samarbeid som Kultur- og naturreise / K-lab (Norsk kulturråd, Arkivverket, Riksantikvaren og Kartverket). Aktiviteter som _hackatons_ (utviklerseminarer) har både bidratt til tilgjengeliggjøring av relevante data, lisensiering av data, økt oppmerksomhet i offentligheten og konkrete tjenester. Det er etablert god dialog og til dels samarbeid med relevante miljøer internasjonalt (bl.a. Digisam i Sverige og Europeana i EU). Økt tilgjengeliggjøring av data har også gitt mer tverrsektoriell bruk både blant offentlige og kommersielle aktører. Et eksempel er VG presentasjon av databasen Våre falne; http://www.vg.no/spesial/2015/vaare_falne/[http://www.vg.no/spesial/2015/vaare_falne/]). +
+Det er skapt økt bevissthet og aktivitet i sektoren, bl.a. gjennom samarbeid som Kultur- og naturreise / K-lab (Norsk kulturråd, Arkivverket, Riksantikvaren og Kartverket). Aktiviteter som _hackatons_ (utviklerseminarer) har både bidratt til tilgjengeliggjøring av relevante data, lisensiering av data, økt oppmerksomhet i offentligheten og konkrete tjenester. Det er etablert god dialog og til dels samarbeid med relevante miljøer internasjonalt (bl.a. Digisam i Sverige og Europeana i EU). Økt tilgjengeliggjøring av data har også gitt mer tverrsektoriell bruk både blant offentlige og kommersielle aktører. Et eksempel er VGs presentasjon av databasen
+http://www.vg.no/spesial/2015/vaare_falne/[Våre falne]
 
 Sammenstilling av data fra ulike kilder har tydeliggjort behovet for felles vokabularer og autoritetsregistre. Selv om det fremdeles gjenstår mye arbeid er initiativer til både infrastruktur og konkrete verktøy igangsatt. Nasjonalbibliotekets arbeid med åpne autoritetsregistre for steds-, person- og korporasjonsnavn, samt KulturITs tjeneste KulturNav er positive eksempler i denne retning.
 
@@ -411,7 +413,7 @@ Forvaltningsdata fra offentlige etater skal etter arkivloven avleveres til Arkiv
 
 === Økt tilgjengeliggjøring og bruk – fortrinn og styrker
 
-Det knyttes store forventninger til samfunnsnyttig verdiskaping gjennom økt bruk av kulturdata. Som det sies i Stortingsmelding 27 (2015-2016) Digital agenda for Norge er kultursektorens data_ «verdifulle for kulturbaserte næringer»,_ og de vil være «_lette å formidle og ha bred appell til publikum»._ Dette må anses som et godt utgangspunkt for økt tilgjengeliggjøring og bruk som åpne data. Likevel kan man ikke forvente at aktuelle brukere finner dataene og ser potensialet i dem uten aktiv formidling fra sektorens side.
+Det knyttes store forventninger til samfunnsnyttig verdiskaping gjennom økt bruk av kulturdata. Som det sies i Stortingsmelding 27 (2015-2016) Digital agenda for Norge er kultursektorens data _«verdifulle for kulturbaserte næringer»,_ og de vil være «_lette å formidle og ha bred appell til publikum»._ Dette må anses som et godt utgangspunkt for økt tilgjengeliggjøring og bruk som åpne data. Likevel kan man ikke forvente at aktuelle brukere finner dataene og ser potensialet i dem uten aktiv formidling fra sektorens side.
 
 Selv om kultursektoren skiller seg fra de andre sektorene i strategien ved å inneholde rettighetsbelagt materiale, er det likevel slik at mye av innholdet bør kunne gjenbrukes fritt uten klarering eller vederlag. Dels fordi det er eldre materiale hvor rettighetene har utløpt, eller fordi det er offentlig skapt/eid/finansiert og i stor grad ikke-kommersielt.
 

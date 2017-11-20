@@ -7,7 +7,7 @@ Status for de 5 sektorene (Del 2), er beskrevet av ansvarlig departement for hve
 _kart- og eiendomsdata_; Kari Strande (Kommunal- og moderniseringsdepartementet) _transportsektoren_; Ida Monclair (Samferdelsdepartementet),  _statlige utgifter_; Astri Tverstøl (Finansdepartementet), _forskning_; Hanne Monclair (Kunnskapsdepartementet), _kultur_; Bjørn Olav Tveit (Kulturdepartementet).
 
 Dokumentet blir oppdatert ved behov.
-Sist endret: 14.07.2017
+Sist endret: 20.11.2017
 
 == Innledning
 Det offentlige produserer store mengder data i sin saksbehandling og myndighetsutøvelse. Tilgang på data, og kunnskap om hvordan de kan brukes, er i økende grad en forutsetning for å kunne ta beslutninger, utvikle nye tjenester og å utøve et åpent og opplyst demokrati. Data blir i økende grad brukt i andre sammenhenger, til andre formål og av andre aktører enn det som var utgangspunktet da informasjonen ble skapt.
