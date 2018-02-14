@@ -6,8 +6,38 @@ Del 1 er skrevet av Difi ved mailto:heather.broomfield@difi.no[Heather Broomfiel
 Status for de 5 sektorene (Del 2), er beskrevet av ansvarlig departement for hvert område. Kontaktpersoner i departementene:
 _kart- og eiendomsdata_; Kari Strande (Kommunal- og moderniseringsdepartementet) _transportsektoren_; Ida Monclair (Samferdelsdepartementet),  _statlige utgifter_; Astri Tverstøl (Finansdepartementet), _forskning_; Hanne Monclair (Kunnskapsdepartementet), _kultur_; Bjørn Olav Tveit (Kulturdepartementet).
 
+Dokumentet må ses i sammenheng med arbeidet som ble varslet i  https://www.regjeringen.no/no/dokumenter/meld.-st.-27-20152016/id2483795/[Meld. St. 27 (2015-2016) Digital agenda for Norge] der de nevnte områdene skal utarbeide strategier for økt tilgjengeliggjøring av offentlige data. Strategiene blir lenket etterhvert som de er ferdigstilt:
+
+.Oversikt over de ulike strategiene
+|===
+|Område | Lenke til strategi | Status
+
+|Kart- og eiendomsdata
+|https://www.geonorge.no/globalassets/geonorge2/ny-nasjonal-geodatastrategi/geodatastrategi-utkast_140217.pdf[Alt skjer et sted
+Nasjonal geodatastrategi fram mot 2025 (PDF)]
+|Til behandling i departementet
+
+|Forskning
+|https://www.regjeringen.no/id2582412/[Nasjonal strategi for tilgjengeliggjøring og deling av forskningsdata]
+|Ferdigstilt
+
+|Kultur
+|https://www.regjeringen.no/id2576038/[Kulturdepartementets strategi for åpne data]
+|Ferdigstilt
+
+|Transport
+|(ikke tilgjengelig)
+|Under arbeid
+
+|Statlige utgifter
+|(ikke tilgjengelig)
+|Under arbeid
+
+|===
+
+
 Dokumentet blir oppdatert ved behov.
-Sist endret: 20.11.2017
+Sist endret: 14.02.2018
 
 == Innledning
 Det offentlige produserer store mengder data i sin saksbehandling og myndighetsutøvelse. Tilgang på data, og kunnskap om hvordan de kan brukes, er i økende grad en forutsetning for å kunne ta beslutninger, utvikle nye tjenester og å utøve et åpent og opplyst demokrati. Data blir i økende grad brukt i andre sammenhenger, til andre formål og av andre aktører enn det som var utgangspunktet da informasjonen ble skapt.
