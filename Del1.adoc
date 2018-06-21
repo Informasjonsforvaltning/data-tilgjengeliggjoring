@@ -15,19 +15,19 @@ Dokumentet må ses i sammenheng med arbeidet som ble varslet i  https://www.regj
 |Kart- og eiendomsdata
 |https://www.geonorge.no/globalassets/geonorge2/ny-nasjonal-geodatastrategi/geodatastrategi-utkast_140217.pdf[Alt skjer et sted
 Nasjonal geodatastrategi fram mot 2025 (PDF)]
-|Til behandling i departementet
+|Ferdig
 
 |Forskning
 |https://www.regjeringen.no/id2582412/[Nasjonal strategi for tilgjengeliggjøring og deling av forskningsdata]
-|Ferdigstilt
+|Ferdig
 
 |Kultur
 |https://www.regjeringen.no/id2576038/[Kulturdepartementets strategi for åpne data]
-|Ferdigstilt
+|Ferdig
 
 |Transport
-|(ikke tilgjengelig)
-|Under arbeid
+|https://www.regjeringen.no/no/dokumenter/strategi-for-tilgjengeliggjoring-av-offentlige-data--samferdselssektoren/id2598229/[Strategi for tilgjengeliggjøring av offentlige data – samferdselssektoren]
+|Ferdig
 
 |Statlige utgifter
 |(ikke tilgjengelig)
