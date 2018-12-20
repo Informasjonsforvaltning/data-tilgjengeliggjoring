@@ -13,7 +13,7 @@ Dokumentet må ses i sammenheng med arbeidet som ble varslet i  https://www.regj
 |Område | Lenke til strategi | Status
 
 |Kart- og eiendomsdata
-|https://www.geonorge.no/globalassets/geonorge2/ny-nasjonal-geodatastrategi/geodatastrategi-utkast_140217.pdf[Alt skjer et sted
+|https://www.regjeringen.no/contentassets/6e470654c95d411e8b1925849ec4918d/kmd_alt_skjer_et_sted_geodatastrategi.pdf[Alt skjer et sted
 Nasjonal geodatastrategi fram mot 2025 (PDF)]
 |Ferdig
 
@@ -31,13 +31,13 @@ Nasjonal geodatastrategi fram mot 2025 (PDF)]
 
 |Statlige utgifter
 |(ikke tilgjengelig)
-|Under arbeid
+|(ikke tilgjengelig)
 
 |===
 
 
 Dokumentet blir oppdatert ved behov.
-Sist endret: 14.02.2018
+Sist endret: 20.12.2018
 
 == Innledning
 Det offentlige produserer store mengder data i sin saksbehandling og myndighetsutøvelse. Tilgang på data, og kunnskap om hvordan de kan brukes, er i økende grad en forutsetning for å kunne ta beslutninger, utvikle nye tjenester og å utøve et åpent og opplyst demokrati. Data blir i økende grad brukt i andre sammenhenger, til andre formål og av andre aktører enn det som var utgangspunktet da informasjonen ble skapt.
