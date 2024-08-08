@@ -8,7 +8,7 @@ v 1.11
 :icons: font
 :toc: left
 :toclevels: 3
-:sectanchors:
+:sectlinks:
 :title-logo-image: utils/logo.jpg
 
 // :sectnums:
